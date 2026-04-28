@@ -1,0 +1,2107 @@
+date,year,month,category_id,category,value,group
+2006-07-01,2006,7,7170,1.Alimentação e bebidas,0.09,Alimentação e bebidas
+2006-08-01,2006,8,7170,1.Alimentação e bebidas,0.07,Alimentação e bebidas
+2006-09-01,2006,9,7170,1.Alimentação e bebidas,0.08,Alimentação e bebidas
+2006-10-01,2006,10,7170,1.Alimentação e bebidas,0.88,Alimentação e bebidas
+2006-11-01,2006,11,7170,1.Alimentação e bebidas,1.05,Alimentação e bebidas
+2006-12-01,2006,12,7170,1.Alimentação e bebidas,0.39,Alimentação e bebidas
+2006-07-01,2006,7,7445,2.Habitação,-0.02,Habitação
+2006-08-01,2006,8,7445,2.Habitação,0.11,Habitação
+2006-09-01,2006,9,7445,2.Habitação,0.42,Habitação
+2006-10-01,2006,10,7445,2.Habitação,0.2,Habitação
+2006-11-01,2006,11,7445,2.Habitação,-0.08,Habitação
+2006-12-01,2006,12,7445,2.Habitação,0.19,Habitação
+2006-07-01,2006,7,7625,5.Transportes,0.37,Transportes
+2006-08-01,2006,8,7625,5.Transportes,-0.32,Transportes
+2006-09-01,2006,9,7625,5.Transportes,-0.01,Transportes
+2006-10-01,2006,10,7625,5.Transportes,-0.13,Transportes
+2006-11-01,2006,11,7625,5.Transportes,-0.09,Transportes
+2006-12-01,2006,12,7625,5.Transportes,1.14,Transportes
+2006-07-01,2006,7,7626,51.Transportes,0.37,Transportes
+2006-08-01,2006,8,7626,51.Transportes,-0.32,Transportes
+2006-09-01,2006,9,7626,51.Transportes,-0.01,Transportes
+2006-10-01,2006,10,7626,51.Transportes,-0.13,Transportes
+2006-11-01,2006,11,7626,51.Transportes,-0.09,Transportes
+2006-12-01,2006,12,7626,51.Transportes,1.14,Transportes
+2006-07-01,2006,7,7660,6.Saúde e cuidados pessoais,0.44,Saúde e cuidados pessoais
+2006-08-01,2006,8,7660,6.Saúde e cuidados pessoais,0.2,Saúde e cuidados pessoais
+2006-09-01,2006,9,7660,6.Saúde e cuidados pessoais,0.28,Saúde e cuidados pessoais
+2006-10-01,2006,10,7660,6.Saúde e cuidados pessoais,0.37,Saúde e cuidados pessoais
+2006-11-01,2006,11,7660,6.Saúde e cuidados pessoais,0.22,Saúde e cuidados pessoais
+2006-12-01,2006,12,7660,6.Saúde e cuidados pessoais,0.25,Saúde e cuidados pessoais
+2006-07-01,2006,7,7766,8.Educação,0.09,Educação
+2006-08-01,2006,8,7766,8.Educação,-0.02,Educação
+2006-09-01,2006,9,7766,8.Educação,-0.01,Educação
+2006-10-01,2006,10,7766,8.Educação,0.17,Educação
+2006-11-01,2006,11,7766,8.Educação,0.03,Educação
+2006-12-01,2006,12,7766,8.Educação,0.17,Educação
+2006-07-01,2006,7,7786,9.Comunicação,-0.07,Comunicação
+2006-08-01,2006,8,7786,9.Comunicação,-0.3,Comunicação
+2006-09-01,2006,9,7786,9.Comunicação,-0.07,Comunicação
+2006-10-01,2006,10,7786,9.Comunicação,-0.01,Comunicação
+2006-11-01,2006,11,7786,9.Comunicação,-0.1,Comunicação
+2006-12-01,2006,12,7786,9.Comunicação,-0.01,Comunicação
+2006-07-01,2006,7,7787,91.Comunicação,-0.07,Comunicação
+2006-08-01,2006,8,7787,91.Comunicação,-0.3,Comunicação
+2006-09-01,2006,9,7787,91.Comunicação,-0.07,Comunicação
+2006-10-01,2006,10,7787,91.Comunicação,-0.01,Comunicação
+2006-11-01,2006,11,7787,91.Comunicação,-0.1,Comunicação
+2006-12-01,2006,12,7787,91.Comunicação,-0.01,Comunicação
+2006-07-01,2006,7,7788,9101.Comunicação,-0.07,Comunicação
+2006-08-01,2006,8,7788,9101.Comunicação,-0.3,Comunicação
+2006-09-01,2006,9,7788,9101.Comunicação,-0.07,Comunicação
+2006-10-01,2006,10,7788,9101.Comunicação,-0.01,Comunicação
+2006-11-01,2006,11,7788,9101.Comunicação,-0.1,Comunicação
+2006-12-01,2006,12,7788,9101.Comunicação,-0.01,Comunicação
+2007-01-01,2007,1,7170,1.Alimentação e bebidas,0.84,Alimentação e bebidas
+2007-02-01,2007,2,7170,1.Alimentação e bebidas,0.78,Alimentação e bebidas
+2007-03-01,2007,3,7170,1.Alimentação e bebidas,0.98,Alimentação e bebidas
+2007-04-01,2007,4,7170,1.Alimentação e bebidas,0.03,Alimentação e bebidas
+2007-05-01,2007,5,7170,1.Alimentação e bebidas,0.16,Alimentação e bebidas
+2007-06-01,2007,6,7170,1.Alimentação e bebidas,1.09,Alimentação e bebidas
+2007-07-01,2007,7,7170,1.Alimentação e bebidas,1.27,Alimentação e bebidas
+2007-08-01,2007,8,7170,1.Alimentação e bebidas,1.39,Alimentação e bebidas
+2007-09-01,2007,9,7170,1.Alimentação e bebidas,0.44,Alimentação e bebidas
+2007-10-01,2007,10,7170,1.Alimentação e bebidas,0.52,Alimentação e bebidas
+2007-11-01,2007,11,7170,1.Alimentação e bebidas,0.73,Alimentação e bebidas
+2007-12-01,2007,12,7170,1.Alimentação e bebidas,2.06,Alimentação e bebidas
+2007-01-01,2007,1,7445,2.Habitação,0.07,Habitação
+2007-02-01,2007,2,7445,2.Habitação,0.19,Habitação
+2007-03-01,2007,3,7445,2.Habitação,0.26,Habitação
+2007-04-01,2007,4,7445,2.Habitação,0.39,Habitação
+2007-05-01,2007,5,7445,2.Habitação,0.19,Habitação
+2007-06-01,2007,6,7445,2.Habitação,0.25,Habitação
+2007-07-01,2007,7,7445,2.Habitação,-0.74,Habitação
+2007-08-01,2007,8,7445,2.Habitação,0.05,Habitação
+2007-09-01,2007,9,7445,2.Habitação,0.54,Habitação
+2007-10-01,2007,10,7445,2.Habitação,-0.02,Habitação
+2007-11-01,2007,11,7445,2.Habitação,0.41,Habitação
+2007-12-01,2007,12,7445,2.Habitação,0.16,Habitação
+2007-01-01,2007,1,7625,5.Transportes,0.62,Transportes
+2007-02-01,2007,2,7625,5.Transportes,0.07,Transportes
+2007-03-01,2007,3,7625,5.Transportes,0.22,Transportes
+2007-04-01,2007,4,7625,5.Transportes,0.31,Transportes
+2007-05-01,2007,5,7625,5.Transportes,0.23,Transportes
+2007-06-01,2007,6,7625,5.Transportes,-0.4,Transportes
+2007-07-01,2007,7,7625,5.Transportes,-0.08,Transportes
+2007-08-01,2007,8,7625,5.Transportes,0.05,Transportes
+2007-09-01,2007,9,7625,5.Transportes,-0.16,Transportes
+2007-10-01,2007,10,7625,5.Transportes,0.12,Transportes
+2007-11-01,2007,11,7625,5.Transportes,0.38,Transportes
+2007-12-01,2007,12,7625,5.Transportes,0.71,Transportes
+2007-01-01,2007,1,7626,51.Transportes,0.62,Transportes
+2007-02-01,2007,2,7626,51.Transportes,0.07,Transportes
+2007-03-01,2007,3,7626,51.Transportes,0.22,Transportes
+2007-04-01,2007,4,7626,51.Transportes,0.31,Transportes
+2007-05-01,2007,5,7626,51.Transportes,0.23,Transportes
+2007-06-01,2007,6,7626,51.Transportes,-0.4,Transportes
+2007-07-01,2007,7,7626,51.Transportes,-0.08,Transportes
+2007-08-01,2007,8,7626,51.Transportes,0.05,Transportes
+2007-09-01,2007,9,7626,51.Transportes,-0.16,Transportes
+2007-10-01,2007,10,7626,51.Transportes,0.12,Transportes
+2007-11-01,2007,11,7626,51.Transportes,0.38,Transportes
+2007-12-01,2007,12,7626,51.Transportes,0.71,Transportes
+2007-01-01,2007,1,7660,6.Saúde e cuidados pessoais,0.47,Saúde e cuidados pessoais
+2007-02-01,2007,2,7660,6.Saúde e cuidados pessoais,0.4,Saúde e cuidados pessoais
+2007-03-01,2007,3,7660,6.Saúde e cuidados pessoais,0.32,Saúde e cuidados pessoais
+2007-04-01,2007,4,7660,6.Saúde e cuidados pessoais,0.47,Saúde e cuidados pessoais
+2007-05-01,2007,5,7660,6.Saúde e cuidados pessoais,0.57,Saúde e cuidados pessoais
+2007-06-01,2007,6,7660,6.Saúde e cuidados pessoais,0.32,Saúde e cuidados pessoais
+2007-07-01,2007,7,7660,6.Saúde e cuidados pessoais,0.33,Saúde e cuidados pessoais
+2007-08-01,2007,8,7660,6.Saúde e cuidados pessoais,0.31,Saúde e cuidados pessoais
+2007-09-01,2007,9,7660,6.Saúde e cuidados pessoais,0.35,Saúde e cuidados pessoais
+2007-10-01,2007,10,7660,6.Saúde e cuidados pessoais,0.49,Saúde e cuidados pessoais
+2007-11-01,2007,11,7660,6.Saúde e cuidados pessoais,0.35,Saúde e cuidados pessoais
+2007-12-01,2007,12,7660,6.Saúde e cuidados pessoais,0.0,Saúde e cuidados pessoais
+2007-01-01,2007,1,7766,8.Educação,0.07,Educação
+2007-02-01,2007,2,7766,8.Educação,3.48,Educação
+2007-03-01,2007,3,7766,8.Educação,0.02,Educação
+2007-04-01,2007,4,7766,8.Educação,0.04,Educação
+2007-05-01,2007,5,7766,8.Educação,0.06,Educação
+2007-06-01,2007,6,7766,8.Educação,0.04,Educação
+2007-07-01,2007,7,7766,8.Educação,0.06,Educação
+2007-08-01,2007,8,7766,8.Educação,0.38,Educação
+2007-09-01,2007,9,7766,8.Educação,-0.11,Educação
+2007-10-01,2007,10,7766,8.Educação,0.01,Educação
+2007-11-01,2007,11,7766,8.Educação,0.02,Educação
+2007-12-01,2007,12,7766,8.Educação,0.07,Educação
+2007-01-01,2007,1,7786,9.Comunicação,0.07,Comunicação
+2007-02-01,2007,2,7786,9.Comunicação,-0.28,Comunicação
+2007-03-01,2007,3,7786,9.Comunicação,0.01,Comunicação
+2007-04-01,2007,4,7786,9.Comunicação,0.24,Comunicação
+2007-05-01,2007,5,7786,9.Comunicação,0.07,Comunicação
+2007-06-01,2007,6,7786,9.Comunicação,-0.05,Comunicação
+2007-07-01,2007,7,7786,9.Comunicação,0.42,Comunicação
+2007-08-01,2007,8,7786,9.Comunicação,0.71,Comunicação
+2007-09-01,2007,9,7786,9.Comunicação,-0.53,Comunicação
+2007-10-01,2007,10,7786,9.Comunicação,0.05,Comunicação
+2007-11-01,2007,11,7786,9.Comunicação,0.01,Comunicação
+2007-12-01,2007,12,7786,9.Comunicação,-0.03,Comunicação
+2007-01-01,2007,1,7787,91.Comunicação,0.07,Comunicação
+2007-02-01,2007,2,7787,91.Comunicação,-0.28,Comunicação
+2007-03-01,2007,3,7787,91.Comunicação,0.01,Comunicação
+2007-04-01,2007,4,7787,91.Comunicação,0.24,Comunicação
+2007-05-01,2007,5,7787,91.Comunicação,0.07,Comunicação
+2007-06-01,2007,6,7787,91.Comunicação,-0.05,Comunicação
+2007-07-01,2007,7,7787,91.Comunicação,0.42,Comunicação
+2007-08-01,2007,8,7787,91.Comunicação,0.71,Comunicação
+2007-09-01,2007,9,7787,91.Comunicação,-0.53,Comunicação
+2007-10-01,2007,10,7787,91.Comunicação,0.05,Comunicação
+2007-11-01,2007,11,7787,91.Comunicação,0.01,Comunicação
+2007-12-01,2007,12,7787,91.Comunicação,-0.03,Comunicação
+2007-01-01,2007,1,7788,9101.Comunicação,0.07,Comunicação
+2007-02-01,2007,2,7788,9101.Comunicação,-0.28,Comunicação
+2007-03-01,2007,3,7788,9101.Comunicação,0.01,Comunicação
+2007-04-01,2007,4,7788,9101.Comunicação,0.24,Comunicação
+2007-05-01,2007,5,7788,9101.Comunicação,0.07,Comunicação
+2007-06-01,2007,6,7788,9101.Comunicação,-0.05,Comunicação
+2007-07-01,2007,7,7788,9101.Comunicação,0.42,Comunicação
+2007-08-01,2007,8,7788,9101.Comunicação,0.71,Comunicação
+2007-09-01,2007,9,7788,9101.Comunicação,-0.53,Comunicação
+2007-10-01,2007,10,7788,9101.Comunicação,0.05,Comunicação
+2007-11-01,2007,11,7788,9101.Comunicação,0.01,Comunicação
+2007-12-01,2007,12,7788,9101.Comunicação,-0.03,Comunicação
+2008-01-01,2008,1,7170,1.Alimentação e bebidas,1.52,Alimentação e bebidas
+2008-02-01,2008,2,7170,1.Alimentação e bebidas,0.6,Alimentação e bebidas
+2008-03-01,2008,3,7170,1.Alimentação e bebidas,0.89,Alimentação e bebidas
+2008-04-01,2008,4,7170,1.Alimentação e bebidas,1.29,Alimentação e bebidas
+2008-05-01,2008,5,7170,1.Alimentação e bebidas,1.95,Alimentação e bebidas
+2008-06-01,2008,6,7170,1.Alimentação e bebidas,2.11,Alimentação e bebidas
+2008-07-01,2008,7,7170,1.Alimentação e bebidas,1.05,Alimentação e bebidas
+2008-08-01,2008,8,7170,1.Alimentação e bebidas,-0.18,Alimentação e bebidas
+2008-09-01,2008,9,7170,1.Alimentação e bebidas,-0.27,Alimentação e bebidas
+2008-10-01,2008,10,7170,1.Alimentação e bebidas,0.69,Alimentação e bebidas
+2008-11-01,2008,11,7170,1.Alimentação e bebidas,0.61,Alimentação e bebidas
+2008-12-01,2008,12,7170,1.Alimentação e bebidas,0.36,Alimentação e bebidas
+2008-01-01,2008,1,7445,2.Habitação,0.16,Habitação
+2008-02-01,2008,2,7445,2.Habitação,0.2,Habitação
+2008-03-01,2008,3,7445,2.Habitação,0.65,Habitação
+2008-04-01,2008,4,7445,2.Habitação,0.19,Habitação
+2008-05-01,2008,5,7445,2.Habitação,0.32,Habitação
+2008-06-01,2008,6,7445,2.Habitação,0.26,Habitação
+2008-07-01,2008,7,7445,2.Habitação,0.6,Habitação
+2008-08-01,2008,8,7445,2.Habitação,0.77,Habitação
+2008-09-01,2008,9,7445,2.Habitação,0.5,Habitação
+2008-10-01,2008,10,7445,2.Habitação,0.62,Habitação
+2008-11-01,2008,11,7445,2.Habitação,0.43,Habitação
+2008-12-01,2008,12,7445,2.Habitação,0.28,Habitação
+2008-01-01,2008,1,7625,5.Transportes,0.4,Transportes
+2008-02-01,2008,2,7625,5.Transportes,0.06,Transportes
+2008-03-01,2008,3,7625,5.Transportes,0.42,Transportes
+2008-04-01,2008,4,7625,5.Transportes,-0.05,Transportes
+2008-05-01,2008,5,7625,5.Transportes,0.33,Transportes
+2008-06-01,2008,6,7625,5.Transportes,0.26,Transportes
+2008-07-01,2008,7,7625,5.Transportes,0.46,Transportes
+2008-08-01,2008,8,7625,5.Transportes,0.06,Transportes
+2008-09-01,2008,9,7625,5.Transportes,0.39,Transportes
+2008-10-01,2008,10,7625,5.Transportes,0.02,Transportes
+2008-11-01,2008,11,7625,5.Transportes,-0.02,Transportes
+2008-12-01,2008,12,7625,5.Transportes,-0.03,Transportes
+2008-01-01,2008,1,7626,51.Transportes,0.4,Transportes
+2008-02-01,2008,2,7626,51.Transportes,0.06,Transportes
+2008-03-01,2008,3,7626,51.Transportes,0.42,Transportes
+2008-04-01,2008,4,7626,51.Transportes,-0.05,Transportes
+2008-05-01,2008,5,7626,51.Transportes,0.33,Transportes
+2008-06-01,2008,6,7626,51.Transportes,0.26,Transportes
+2008-07-01,2008,7,7626,51.Transportes,0.46,Transportes
+2008-08-01,2008,8,7626,51.Transportes,0.06,Transportes
+2008-09-01,2008,9,7626,51.Transportes,0.39,Transportes
+2008-10-01,2008,10,7626,51.Transportes,0.02,Transportes
+2008-11-01,2008,11,7626,51.Transportes,-0.02,Transportes
+2008-12-01,2008,12,7626,51.Transportes,-0.03,Transportes
+2008-01-01,2008,1,7660,6.Saúde e cuidados pessoais,0.41,Saúde e cuidados pessoais
+2008-02-01,2008,2,7660,6.Saúde e cuidados pessoais,0.44,Saúde e cuidados pessoais
+2008-03-01,2008,3,7660,6.Saúde e cuidados pessoais,0.5,Saúde e cuidados pessoais
+2008-04-01,2008,4,7660,6.Saúde e cuidados pessoais,0.76,Saúde e cuidados pessoais
+2008-05-01,2008,5,7660,6.Saúde e cuidados pessoais,0.65,Saúde e cuidados pessoais
+2008-06-01,2008,6,7660,6.Saúde e cuidados pessoais,0.66,Saúde e cuidados pessoais
+2008-07-01,2008,7,7660,6.Saúde e cuidados pessoais,0.47,Saúde e cuidados pessoais
+2008-08-01,2008,8,7660,6.Saúde e cuidados pessoais,0.32,Saúde e cuidados pessoais
+2008-09-01,2008,9,7660,6.Saúde e cuidados pessoais,0.46,Saúde e cuidados pessoais
+2008-10-01,2008,10,7660,6.Saúde e cuidados pessoais,0.26,Saúde e cuidados pessoais
+2008-11-01,2008,11,7660,6.Saúde e cuidados pessoais,0.33,Saúde e cuidados pessoais
+2008-12-01,2008,12,7660,6.Saúde e cuidados pessoais,0.32,Saúde e cuidados pessoais
+2008-01-01,2008,1,7766,8.Educação,0.2,Educação
+2008-02-01,2008,2,7766,8.Educação,3.47,Educação
+2008-03-01,2008,3,7766,8.Educação,0.24,Educação
+2008-04-01,2008,4,7766,8.Educação,0.05,Educação
+2008-05-01,2008,5,7766,8.Educação,0.03,Educação
+2008-06-01,2008,6,7766,8.Educação,0.05,Educação
+2008-07-01,2008,7,7766,8.Educação,-0.02,Educação
+2008-08-01,2008,8,7766,8.Educação,0.42,Educação
+2008-09-01,2008,9,7766,8.Educação,-0.05,Educação
+2008-10-01,2008,10,7766,8.Educação,0.02,Educação
+2008-11-01,2008,11,7766,8.Educação,0.05,Educação
+2008-12-01,2008,12,7766,8.Educação,0.08,Educação
+2008-01-01,2008,1,7786,9.Comunicação,-0.03,Comunicação
+2008-02-01,2008,2,7786,9.Comunicação,0.22,Comunicação
+2008-03-01,2008,3,7786,9.Comunicação,0.03,Comunicação
+2008-04-01,2008,4,7786,9.Comunicação,0.06,Comunicação
+2008-05-01,2008,5,7786,9.Comunicação,-0.02,Comunicação
+2008-06-01,2008,6,7786,9.Comunicação,0.29,Comunicação
+2008-07-01,2008,7,7786,9.Comunicação,0.36,Comunicação
+2008-08-01,2008,8,7786,9.Comunicação,0.69,Comunicação
+2008-09-01,2008,9,7786,9.Comunicação,-0.12,Comunicação
+2008-10-01,2008,10,7786,9.Comunicação,0.17,Comunicação
+2008-11-01,2008,11,7786,9.Comunicação,0.13,Comunicação
+2008-12-01,2008,12,7786,9.Comunicação,0.0,Comunicação
+2008-01-01,2008,1,7787,91.Comunicação,-0.03,Comunicação
+2008-02-01,2008,2,7787,91.Comunicação,0.22,Comunicação
+2008-03-01,2008,3,7787,91.Comunicação,0.03,Comunicação
+2008-04-01,2008,4,7787,91.Comunicação,0.06,Comunicação
+2008-05-01,2008,5,7787,91.Comunicação,-0.02,Comunicação
+2008-06-01,2008,6,7787,91.Comunicação,0.29,Comunicação
+2008-07-01,2008,7,7787,91.Comunicação,0.36,Comunicação
+2008-08-01,2008,8,7787,91.Comunicação,0.69,Comunicação
+2008-09-01,2008,9,7787,91.Comunicação,-0.12,Comunicação
+2008-10-01,2008,10,7787,91.Comunicação,0.17,Comunicação
+2008-11-01,2008,11,7787,91.Comunicação,0.13,Comunicação
+2008-12-01,2008,12,7787,91.Comunicação,0.0,Comunicação
+2008-01-01,2008,1,7788,9101.Comunicação,-0.03,Comunicação
+2008-02-01,2008,2,7788,9101.Comunicação,0.22,Comunicação
+2008-03-01,2008,3,7788,9101.Comunicação,0.03,Comunicação
+2008-04-01,2008,4,7788,9101.Comunicação,0.06,Comunicação
+2008-05-01,2008,5,7788,9101.Comunicação,-0.02,Comunicação
+2008-06-01,2008,6,7788,9101.Comunicação,0.29,Comunicação
+2008-07-01,2008,7,7788,9101.Comunicação,0.36,Comunicação
+2008-08-01,2008,8,7788,9101.Comunicação,0.69,Comunicação
+2008-09-01,2008,9,7788,9101.Comunicação,-0.12,Comunicação
+2008-10-01,2008,10,7788,9101.Comunicação,0.17,Comunicação
+2008-11-01,2008,11,7788,9101.Comunicação,0.13,Comunicação
+2008-12-01,2008,12,7788,9101.Comunicação,0.0,Comunicação
+2009-01-01,2009,1,7170,1.Alimentação e bebidas,0.75,Alimentação e bebidas
+2009-02-01,2009,2,7170,1.Alimentação e bebidas,0.27,Alimentação e bebidas
+2009-03-01,2009,3,7170,1.Alimentação e bebidas,0.3,Alimentação e bebidas
+2009-04-01,2009,4,7170,1.Alimentação e bebidas,0.15,Alimentação e bebidas
+2009-05-01,2009,5,7170,1.Alimentação e bebidas,0.44,Alimentação e bebidas
+2009-06-01,2009,6,7170,1.Alimentação e bebidas,0.7,Alimentação e bebidas
+2009-07-01,2009,7,7170,1.Alimentação e bebidas,-0.06,Alimentação e bebidas
+2009-08-01,2009,8,7170,1.Alimentação e bebidas,-0.01,Alimentação e bebidas
+2009-09-01,2009,9,7170,1.Alimentação e bebidas,-0.14,Alimentação e bebidas
+2009-10-01,2009,10,7170,1.Alimentação e bebidas,-0.09,Alimentação e bebidas
+2009-11-01,2009,11,7170,1.Alimentação e bebidas,0.58,Alimentação e bebidas
+2009-12-01,2009,12,7170,1.Alimentação e bebidas,0.24,Alimentação e bebidas
+2009-01-01,2009,1,7445,2.Habitação,0.49,Habitação
+2009-02-01,2009,2,7445,2.Habitação,0.22,Habitação
+2009-03-01,2009,3,7445,2.Habitação,0.25,Habitação
+2009-04-01,2009,4,7445,2.Habitação,0.75,Habitação
+2009-05-01,2009,5,7445,2.Habitação,0.72,Habitação
+2009-06-01,2009,6,7445,2.Habitação,0.27,Habitação
+2009-07-01,2009,7,7445,2.Habitação,1.11,Habitação
+2009-08-01,2009,8,7445,2.Habitação,0.47,Habitação
+2009-09-01,2009,9,7445,2.Habitação,0.62,Habitação
+2009-10-01,2009,10,7445,2.Habitação,0.28,Habitação
+2009-11-01,2009,11,7445,2.Habitação,0.19,Habitação
+2009-12-01,2009,12,7445,2.Habitação,0.17,Habitação
+2009-01-01,2009,1,7625,5.Transportes,0.35,Transportes
+2009-02-01,2009,2,7625,5.Transportes,0.24,Transportes
+2009-03-01,2009,3,7625,5.Transportes,-0.07,Transportes
+2009-04-01,2009,4,7625,5.Transportes,-0.21,Transportes
+2009-05-01,2009,5,7625,5.Transportes,-0.18,Transportes
+2009-06-01,2009,6,7625,5.Transportes,0.02,Transportes
+2009-07-01,2009,7,7625,5.Transportes,0.14,Transportes
+2009-08-01,2009,8,7625,5.Transportes,-0.11,Transportes
+2009-09-01,2009,9,7625,5.Transportes,0.27,Transportes
+2009-10-01,2009,10,7625,5.Transportes,0.51,Transportes
+2009-11-01,2009,11,7625,5.Transportes,0.61,Transportes
+2009-12-01,2009,12,7625,5.Transportes,0.78,Transportes
+2009-01-01,2009,1,7626,51.Transportes,0.35,Transportes
+2009-02-01,2009,2,7626,51.Transportes,0.24,Transportes
+2009-03-01,2009,3,7626,51.Transportes,-0.07,Transportes
+2009-04-01,2009,4,7626,51.Transportes,-0.21,Transportes
+2009-05-01,2009,5,7626,51.Transportes,-0.18,Transportes
+2009-06-01,2009,6,7626,51.Transportes,0.02,Transportes
+2009-07-01,2009,7,7626,51.Transportes,0.14,Transportes
+2009-08-01,2009,8,7626,51.Transportes,-0.11,Transportes
+2009-09-01,2009,9,7626,51.Transportes,0.27,Transportes
+2009-10-01,2009,10,7626,51.Transportes,0.51,Transportes
+2009-11-01,2009,11,7626,51.Transportes,0.61,Transportes
+2009-12-01,2009,12,7626,51.Transportes,0.78,Transportes
+2009-01-01,2009,1,7660,6.Saúde e cuidados pessoais,0.55,Saúde e cuidados pessoais
+2009-02-01,2009,2,7660,6.Saúde e cuidados pessoais,0.46,Saúde e cuidados pessoais
+2009-03-01,2009,3,7660,6.Saúde e cuidados pessoais,0.37,Saúde e cuidados pessoais
+2009-04-01,2009,4,7660,6.Saúde e cuidados pessoais,1.1,Saúde e cuidados pessoais
+2009-05-01,2009,5,7660,6.Saúde e cuidados pessoais,0.68,Saúde e cuidados pessoais
+2009-06-01,2009,6,7660,6.Saúde e cuidados pessoais,0.49,Saúde e cuidados pessoais
+2009-07-01,2009,7,7660,6.Saúde e cuidados pessoais,0.31,Saúde e cuidados pessoais
+2009-08-01,2009,8,7660,6.Saúde e cuidados pessoais,0.21,Saúde e cuidados pessoais
+2009-09-01,2009,9,7660,6.Saúde e cuidados pessoais,0.3,Saúde e cuidados pessoais
+2009-10-01,2009,10,7660,6.Saúde e cuidados pessoais,0.3,Saúde e cuidados pessoais
+2009-11-01,2009,11,7660,6.Saúde e cuidados pessoais,0.24,Saúde e cuidados pessoais
+2009-12-01,2009,12,7660,6.Saúde e cuidados pessoais,0.24,Saúde e cuidados pessoais
+2009-01-01,2009,1,7766,8.Educação,0.34,Educação
+2009-02-01,2009,2,7766,8.Educação,4.77,Educação
+2009-03-01,2009,3,7766,8.Educação,-0.37,Educação
+2009-04-01,2009,4,7766,8.Educação,0.09,Educação
+2009-05-01,2009,5,7766,8.Educação,0.03,Educação
+2009-06-01,2009,6,7766,8.Educação,0.03,Educação
+2009-07-01,2009,7,7766,8.Educação,0.11,Educação
+2009-08-01,2009,8,7766,8.Educação,0.83,Educação
+2009-09-01,2009,9,7766,8.Educação,0.07,Educação
+2009-10-01,2009,10,7766,8.Educação,0.04,Educação
+2009-11-01,2009,11,7766,8.Educação,0.01,Educação
+2009-12-01,2009,12,7766,8.Educação,0.1,Educação
+2009-01-01,2009,1,7786,9.Comunicação,0.05,Comunicação
+2009-02-01,2009,2,7786,9.Comunicação,0.15,Comunicação
+2009-03-01,2009,3,7786,9.Comunicação,0.05,Comunicação
+2009-04-01,2009,4,7786,9.Comunicação,0.08,Comunicação
+2009-05-01,2009,5,7786,9.Comunicação,-0.01,Comunicação
+2009-06-01,2009,6,7786,9.Comunicação,-0.16,Comunicação
+2009-07-01,2009,7,7786,9.Comunicação,-0.1,Comunicação
+2009-08-01,2009,8,7786,9.Comunicação,-0.02,Comunicação
+2009-09-01,2009,9,7786,9.Comunicação,0.22,Comunicação
+2009-10-01,2009,10,7786,9.Comunicação,0.91,Comunicação
+2009-11-01,2009,11,7786,9.Comunicação,0.01,Comunicação
+2009-12-01,2009,12,7786,9.Comunicação,-0.11,Comunicação
+2009-01-01,2009,1,7787,91.Comunicação,0.05,Comunicação
+2009-02-01,2009,2,7787,91.Comunicação,0.15,Comunicação
+2009-03-01,2009,3,7787,91.Comunicação,0.05,Comunicação
+2009-04-01,2009,4,7787,91.Comunicação,0.08,Comunicação
+2009-05-01,2009,5,7787,91.Comunicação,-0.01,Comunicação
+2009-06-01,2009,6,7787,91.Comunicação,-0.16,Comunicação
+2009-07-01,2009,7,7787,91.Comunicação,-0.1,Comunicação
+2009-08-01,2009,8,7787,91.Comunicação,-0.02,Comunicação
+2009-09-01,2009,9,7787,91.Comunicação,0.22,Comunicação
+2009-10-01,2009,10,7787,91.Comunicação,0.91,Comunicação
+2009-11-01,2009,11,7787,91.Comunicação,0.01,Comunicação
+2009-12-01,2009,12,7787,91.Comunicação,-0.11,Comunicação
+2009-01-01,2009,1,7788,9101.Comunicação,0.05,Comunicação
+2009-02-01,2009,2,7788,9101.Comunicação,0.15,Comunicação
+2009-03-01,2009,3,7788,9101.Comunicação,0.05,Comunicação
+2009-04-01,2009,4,7788,9101.Comunicação,0.08,Comunicação
+2009-05-01,2009,5,7788,9101.Comunicação,-0.01,Comunicação
+2009-06-01,2009,6,7788,9101.Comunicação,-0.16,Comunicação
+2009-07-01,2009,7,7788,9101.Comunicação,-0.1,Comunicação
+2009-08-01,2009,8,7788,9101.Comunicação,-0.02,Comunicação
+2009-09-01,2009,9,7788,9101.Comunicação,0.22,Comunicação
+2009-10-01,2009,10,7788,9101.Comunicação,0.91,Comunicação
+2009-11-01,2009,11,7788,9101.Comunicação,0.01,Comunicação
+2009-12-01,2009,12,7788,9101.Comunicação,-0.11,Comunicação
+2010-01-01,2010,1,7170,1.Alimentação e bebidas,1.13,Alimentação e bebidas
+2010-02-01,2010,2,7170,1.Alimentação e bebidas,0.96,Alimentação e bebidas
+2010-03-01,2010,3,7170,1.Alimentação e bebidas,1.55,Alimentação e bebidas
+2010-04-01,2010,4,7170,1.Alimentação e bebidas,1.45,Alimentação e bebidas
+2010-05-01,2010,5,7170,1.Alimentação e bebidas,0.28,Alimentação e bebidas
+2010-06-01,2010,6,7170,1.Alimentação e bebidas,-0.9,Alimentação e bebidas
+2010-07-01,2010,7,7170,1.Alimentação e bebidas,-0.76,Alimentação e bebidas
+2010-08-01,2010,8,7170,1.Alimentação e bebidas,-0.24,Alimentação e bebidas
+2010-09-01,2010,9,7170,1.Alimentação e bebidas,1.08,Alimentação e bebidas
+2010-10-01,2010,10,7170,1.Alimentação e bebidas,1.89,Alimentação e bebidas
+2010-11-01,2010,11,7170,1.Alimentação e bebidas,2.22,Alimentação e bebidas
+2010-12-01,2010,12,7170,1.Alimentação e bebidas,1.32,Alimentação e bebidas
+2010-01-01,2010,1,7445,2.Habitação,0.27,Habitação
+2010-02-01,2010,2,7445,2.Habitação,0.31,Habitação
+2010-03-01,2010,3,7445,2.Habitação,0.32,Habitação
+2010-04-01,2010,4,7445,2.Habitação,0.08,Habitação
+2010-05-01,2010,5,7445,2.Habitação,0.78,Habitação
+2010-06-01,2010,6,7445,2.Habitação,0.4,Habitação
+2010-07-01,2010,7,7445,2.Habitação,0.54,Habitação
+2010-08-01,2010,8,7445,2.Habitação,0.23,Habitação
+2010-09-01,2010,9,7445,2.Habitação,0.4,Habitação
+2010-10-01,2010,10,7445,2.Habitação,0.48,Habitação
+2010-11-01,2010,11,7445,2.Habitação,0.57,Habitação
+2010-12-01,2010,12,7445,2.Habitação,0.49,Habitação
+2010-01-01,2010,1,7625,5.Transportes,1.45,Transportes
+2010-02-01,2010,2,7625,5.Transportes,0.79,Transportes
+2010-03-01,2010,3,7625,5.Transportes,-0.54,Transportes
+2010-04-01,2010,4,7625,5.Transportes,-0.08,Transportes
+2010-05-01,2010,5,7625,5.Transportes,0.09,Transportes
+2010-06-01,2010,6,7625,5.Transportes,-0.21,Transportes
+2010-07-01,2010,7,7625,5.Transportes,0.08,Transportes
+2010-08-01,2010,8,7625,5.Transportes,-0.09,Transportes
+2010-09-01,2010,9,7625,5.Transportes,0.13,Transportes
+2010-10-01,2010,10,7625,5.Transportes,0.36,Transportes
+2010-11-01,2010,11,7625,5.Transportes,0.13,Transportes
+2010-12-01,2010,12,7625,5.Transportes,0.29,Transportes
+2010-01-01,2010,1,7626,51.Transportes,1.45,Transportes
+2010-02-01,2010,2,7626,51.Transportes,0.79,Transportes
+2010-03-01,2010,3,7626,51.Transportes,-0.54,Transportes
+2010-04-01,2010,4,7626,51.Transportes,-0.08,Transportes
+2010-05-01,2010,5,7626,51.Transportes,0.09,Transportes
+2010-06-01,2010,6,7626,51.Transportes,-0.21,Transportes
+2010-07-01,2010,7,7626,51.Transportes,0.08,Transportes
+2010-08-01,2010,8,7626,51.Transportes,-0.09,Transportes
+2010-09-01,2010,9,7626,51.Transportes,0.13,Transportes
+2010-10-01,2010,10,7626,51.Transportes,0.36,Transportes
+2010-11-01,2010,11,7626,51.Transportes,0.13,Transportes
+2010-12-01,2010,12,7626,51.Transportes,0.29,Transportes
+2010-01-01,2010,1,7660,6.Saúde e cuidados pessoais,0.36,Saúde e cuidados pessoais
+2010-02-01,2010,2,7660,6.Saúde e cuidados pessoais,0.23,Saúde e cuidados pessoais
+2010-03-01,2010,3,7660,6.Saúde e cuidados pessoais,0.27,Saúde e cuidados pessoais
+2010-04-01,2010,4,7660,6.Saúde e cuidados pessoais,0.84,Saúde e cuidados pessoais
+2010-05-01,2010,5,7660,6.Saúde e cuidados pessoais,0.74,Saúde e cuidados pessoais
+2010-06-01,2010,6,7660,6.Saúde e cuidados pessoais,0.57,Saúde e cuidados pessoais
+2010-07-01,2010,7,7660,6.Saúde e cuidados pessoais,0.31,Saúde e cuidados pessoais
+2010-08-01,2010,8,7660,6.Saúde e cuidados pessoais,0.26,Saúde e cuidados pessoais
+2010-09-01,2010,9,7660,6.Saúde e cuidados pessoais,0.36,Saúde e cuidados pessoais
+2010-10-01,2010,10,7660,6.Saúde e cuidados pessoais,0.26,Saúde e cuidados pessoais
+2010-11-01,2010,11,7660,6.Saúde e cuidados pessoais,0.36,Saúde e cuidados pessoais
+2010-12-01,2010,12,7660,6.Saúde e cuidados pessoais,0.39,Saúde e cuidados pessoais
+2010-01-01,2010,1,7766,8.Educação,0.26,Educação
+2010-02-01,2010,2,7766,8.Educação,4.53,Educação
+2010-03-01,2010,3,7766,8.Educação,0.54,Educação
+2010-04-01,2010,4,7766,8.Educação,0.11,Educação
+2010-05-01,2010,5,7766,8.Educação,0.04,Educação
+2010-06-01,2010,6,7766,8.Educação,0.03,Educação
+2010-07-01,2010,7,7766,8.Educação,-0.03,Educação
+2010-08-01,2010,8,7766,8.Educação,0.44,Educação
+2010-09-01,2010,9,7766,8.Educação,0.08,Educação
+2010-10-01,2010,10,7766,8.Educação,0.02,Educação
+2010-11-01,2010,11,7766,8.Educação,0.06,Educação
+2010-12-01,2010,12,7766,8.Educação,0.05,Educação
+2010-01-01,2010,1,7786,9.Comunicação,0.0,Comunicação
+2010-02-01,2010,2,7786,9.Comunicação,0.03,Comunicação
+2010-03-01,2010,3,7786,9.Comunicação,0.08,Comunicação
+2010-04-01,2010,4,7786,9.Comunicação,-0.03,Comunicação
+2010-05-01,2010,5,7786,9.Comunicação,-0.01,Comunicação
+2010-06-01,2010,6,7786,9.Comunicação,0.02,Comunicação
+2010-07-01,2010,7,7786,9.Comunicação,0.0,Comunicação
+2010-08-01,2010,8,7786,9.Comunicação,-0.03,Comunicação
+2010-09-01,2010,9,7786,9.Comunicação,0.04,Comunicação
+2010-10-01,2010,10,7786,9.Comunicação,0.29,Comunicação
+2010-11-01,2010,11,7786,9.Comunicação,0.42,Comunicação
+2010-12-01,2010,12,7786,9.Comunicação,0.05,Comunicação
+2010-01-01,2010,1,7787,91.Comunicação,0.0,Comunicação
+2010-02-01,2010,2,7787,91.Comunicação,0.03,Comunicação
+2010-03-01,2010,3,7787,91.Comunicação,0.08,Comunicação
+2010-04-01,2010,4,7787,91.Comunicação,-0.03,Comunicação
+2010-05-01,2010,5,7787,91.Comunicação,-0.01,Comunicação
+2010-06-01,2010,6,7787,91.Comunicação,0.02,Comunicação
+2010-07-01,2010,7,7787,91.Comunicação,0.0,Comunicação
+2010-08-01,2010,8,7787,91.Comunicação,-0.03,Comunicação
+2010-09-01,2010,9,7787,91.Comunicação,0.04,Comunicação
+2010-10-01,2010,10,7787,91.Comunicação,0.29,Comunicação
+2010-11-01,2010,11,7787,91.Comunicação,0.42,Comunicação
+2010-12-01,2010,12,7787,91.Comunicação,0.05,Comunicação
+2010-01-01,2010,1,7788,9101.Comunicação,0.0,Comunicação
+2010-02-01,2010,2,7788,9101.Comunicação,0.03,Comunicação
+2010-03-01,2010,3,7788,9101.Comunicação,0.08,Comunicação
+2010-04-01,2010,4,7788,9101.Comunicação,-0.03,Comunicação
+2010-05-01,2010,5,7788,9101.Comunicação,-0.01,Comunicação
+2010-06-01,2010,6,7788,9101.Comunicação,0.02,Comunicação
+2010-07-01,2010,7,7788,9101.Comunicação,0.0,Comunicação
+2010-08-01,2010,8,7788,9101.Comunicação,-0.03,Comunicação
+2010-09-01,2010,9,7788,9101.Comunicação,0.04,Comunicação
+2010-10-01,2010,10,7788,9101.Comunicação,0.29,Comunicação
+2010-11-01,2010,11,7788,9101.Comunicação,0.42,Comunicação
+2010-12-01,2010,12,7788,9101.Comunicação,0.05,Comunicação
+2011-01-01,2011,1,7170,1.Alimentação e bebidas,1.16,Alimentação e bebidas
+2011-02-01,2011,2,7170,1.Alimentação e bebidas,0.23,Alimentação e bebidas
+2011-03-01,2011,3,7170,1.Alimentação e bebidas,0.75,Alimentação e bebidas
+2011-04-01,2011,4,7170,1.Alimentação e bebidas,0.58,Alimentação e bebidas
+2011-05-01,2011,5,7170,1.Alimentação e bebidas,0.63,Alimentação e bebidas
+2011-06-01,2011,6,7170,1.Alimentação e bebidas,-0.26,Alimentação e bebidas
+2011-07-01,2011,7,7170,1.Alimentação e bebidas,-0.34,Alimentação e bebidas
+2011-08-01,2011,8,7170,1.Alimentação e bebidas,0.72,Alimentação e bebidas
+2011-09-01,2011,9,7170,1.Alimentação e bebidas,0.64,Alimentação e bebidas
+2011-10-01,2011,10,7170,1.Alimentação e bebidas,0.56,Alimentação e bebidas
+2011-11-01,2011,11,7170,1.Alimentação e bebidas,1.08,Alimentação e bebidas
+2011-12-01,2011,12,7170,1.Alimentação e bebidas,1.23,Alimentação e bebidas
+2011-01-01,2011,1,7445,2.Habitação,0.61,Habitação
+2011-02-01,2011,2,7445,2.Habitação,0.32,Habitação
+2011-03-01,2011,3,7445,2.Habitação,0.46,Habitação
+2011-04-01,2011,4,7445,2.Habitação,0.77,Habitação
+2011-05-01,2011,5,7445,2.Habitação,0.97,Habitação
+2011-06-01,2011,6,7445,2.Habitação,0.58,Habitação
+2011-07-01,2011,7,7445,2.Habitação,0.27,Habitação
+2011-08-01,2011,8,7445,2.Habitação,0.32,Habitação
+2011-09-01,2011,9,7445,2.Habitação,0.71,Habitação
+2011-10-01,2011,10,7445,2.Habitação,0.62,Habitação
+2011-11-01,2011,11,7445,2.Habitação,0.47,Habitação
+2011-12-01,2011,12,7445,2.Habitação,0.45,Habitação
+2011-01-01,2011,1,7625,5.Transportes,1.55,Transportes
+2011-02-01,2011,2,7625,5.Transportes,0.46,Transportes
+2011-03-01,2011,3,7625,5.Transportes,1.56,Transportes
+2011-04-01,2011,4,7625,5.Transportes,1.57,Transportes
+2011-05-01,2011,5,7625,5.Transportes,-0.24,Transportes
+2011-06-01,2011,6,7625,5.Transportes,-0.61,Transportes
+2011-07-01,2011,7,7625,5.Transportes,0.46,Transportes
+2011-08-01,2011,8,7625,5.Transportes,-0.11,Transportes
+2011-09-01,2011,9,7625,5.Transportes,0.78,Transportes
+2011-10-01,2011,10,7625,5.Transportes,0.48,Transportes
+2011-11-01,2011,11,7625,5.Transportes,0.01,Transportes
+2011-12-01,2011,12,7625,5.Transportes,0.0,Transportes
+2011-01-01,2011,1,7626,51.Transportes,1.55,Transportes
+2011-02-01,2011,2,7626,51.Transportes,0.46,Transportes
+2011-03-01,2011,3,7626,51.Transportes,1.56,Transportes
+2011-04-01,2011,4,7626,51.Transportes,1.57,Transportes
+2011-05-01,2011,5,7626,51.Transportes,-0.24,Transportes
+2011-06-01,2011,6,7626,51.Transportes,-0.61,Transportes
+2011-07-01,2011,7,7626,51.Transportes,0.46,Transportes
+2011-08-01,2011,8,7626,51.Transportes,-0.11,Transportes
+2011-09-01,2011,9,7626,51.Transportes,0.78,Transportes
+2011-10-01,2011,10,7626,51.Transportes,0.48,Transportes
+2011-11-01,2011,11,7626,51.Transportes,0.01,Transportes
+2011-12-01,2011,12,7626,51.Transportes,0.0,Transportes
+2011-01-01,2011,1,7660,6.Saúde e cuidados pessoais,0.47,Saúde e cuidados pessoais
+2011-02-01,2011,2,7660,6.Saúde e cuidados pessoais,0.31,Saúde e cuidados pessoais
+2011-03-01,2011,3,7660,6.Saúde e cuidados pessoais,0.45,Saúde e cuidados pessoais
+2011-04-01,2011,4,7660,6.Saúde e cuidados pessoais,0.98,Saúde e cuidados pessoais
+2011-05-01,2011,5,7660,6.Saúde e cuidados pessoais,0.73,Saúde e cuidados pessoais
+2011-06-01,2011,6,7660,6.Saúde e cuidados pessoais,0.67,Saúde e cuidados pessoais
+2011-07-01,2011,7,7660,6.Saúde e cuidados pessoais,0.47,Saúde e cuidados pessoais
+2011-08-01,2011,8,7660,6.Saúde e cuidados pessoais,0.43,Saúde e cuidados pessoais
+2011-09-01,2011,9,7660,6.Saúde e cuidados pessoais,0.34,Saúde e cuidados pessoais
+2011-10-01,2011,10,7660,6.Saúde e cuidados pessoais,0.45,Saúde e cuidados pessoais
+2011-11-01,2011,11,7660,6.Saúde e cuidados pessoais,0.42,Saúde e cuidados pessoais
+2011-12-01,2011,12,7660,6.Saúde e cuidados pessoais,0.44,Saúde e cuidados pessoais
+2011-01-01,2011,1,7766,8.Educação,0.3,Educação
+2011-02-01,2011,2,7766,8.Educação,5.81,Educação
+2011-03-01,2011,3,7766,8.Educação,1.04,Educação
+2011-04-01,2011,4,7766,8.Educação,0.09,Educação
+2011-05-01,2011,5,7766,8.Educação,0.01,Educação
+2011-06-01,2011,6,7766,8.Educação,0.11,Educação
+2011-07-01,2011,7,7766,8.Educação,0.11,Educação
+2011-08-01,2011,8,7766,8.Educação,0.17,Educação
+2011-09-01,2011,9,7766,8.Educação,0.14,Educação
+2011-10-01,2011,10,7766,8.Educação,0.07,Educação
+2011-11-01,2011,11,7766,8.Educação,0.02,Educação
+2011-12-01,2011,12,7766,8.Educação,0.05,Educação
+2011-01-01,2011,1,7786,9.Comunicação,0.29,Comunicação
+2011-02-01,2011,2,7786,9.Comunicação,0.49,Comunicação
+2011-03-01,2011,3,7786,9.Comunicação,0.17,Comunicação
+2011-04-01,2011,4,7786,9.Comunicação,0.0,Comunicação
+2011-05-01,2011,5,7786,9.Comunicação,0.15,Comunicação
+2011-06-01,2011,6,7786,9.Comunicação,-0.05,Comunicação
+2011-07-01,2011,7,7786,9.Comunicação,-0.04,Comunicação
+2011-08-01,2011,8,7786,9.Comunicação,-0.06,Comunicação
+2011-09-01,2011,9,7786,9.Comunicação,-0.04,Comunicação
+2011-10-01,2011,10,7786,9.Comunicação,0.13,Comunicação
+2011-11-01,2011,11,7786,9.Comunicação,0.39,Comunicação
+2011-12-01,2011,12,7786,9.Comunicação,0.07,Comunicação
+2011-01-01,2011,1,7787,91.Comunicação,0.29,Comunicação
+2011-02-01,2011,2,7787,91.Comunicação,0.49,Comunicação
+2011-03-01,2011,3,7787,91.Comunicação,0.17,Comunicação
+2011-04-01,2011,4,7787,91.Comunicação,0.0,Comunicação
+2011-05-01,2011,5,7787,91.Comunicação,0.15,Comunicação
+2011-06-01,2011,6,7787,91.Comunicação,-0.05,Comunicação
+2011-07-01,2011,7,7787,91.Comunicação,-0.04,Comunicação
+2011-08-01,2011,8,7787,91.Comunicação,-0.06,Comunicação
+2011-09-01,2011,9,7787,91.Comunicação,-0.04,Comunicação
+2011-10-01,2011,10,7787,91.Comunicação,0.13,Comunicação
+2011-11-01,2011,11,7787,91.Comunicação,0.39,Comunicação
+2011-12-01,2011,12,7787,91.Comunicação,0.07,Comunicação
+2011-01-01,2011,1,7788,9101.Comunicação,0.29,Comunicação
+2011-02-01,2011,2,7788,9101.Comunicação,0.49,Comunicação
+2011-03-01,2011,3,7788,9101.Comunicação,0.17,Comunicação
+2011-04-01,2011,4,7788,9101.Comunicação,0.0,Comunicação
+2011-05-01,2011,5,7788,9101.Comunicação,0.15,Comunicação
+2011-06-01,2011,6,7788,9101.Comunicação,-0.05,Comunicação
+2011-07-01,2011,7,7788,9101.Comunicação,-0.04,Comunicação
+2011-08-01,2011,8,7788,9101.Comunicação,-0.06,Comunicação
+2011-09-01,2011,9,7788,9101.Comunicação,-0.04,Comunicação
+2011-10-01,2011,10,7788,9101.Comunicação,0.13,Comunicação
+2011-11-01,2011,11,7788,9101.Comunicação,0.39,Comunicação
+2011-12-01,2011,12,7788,9101.Comunicação,0.07,Comunicação
+2012-01-01,2012,1,7170,1.Alimentação e bebidas,0.86,Alimentação e bebidas
+2012-02-01,2012,2,7170,1.Alimentação e bebidas,0.19,Alimentação e bebidas
+2012-03-01,2012,3,7170,1.Alimentação e bebidas,0.25,Alimentação e bebidas
+2012-04-01,2012,4,7170,1.Alimentação e bebidas,0.51,Alimentação e bebidas
+2012-05-01,2012,5,7170,1.Alimentação e bebidas,0.73,Alimentação e bebidas
+2012-06-01,2012,6,7170,1.Alimentação e bebidas,0.68,Alimentação e bebidas
+2012-07-01,2012,7,7170,1.Alimentação e bebidas,0.91,Alimentação e bebidas
+2012-08-01,2012,8,7170,1.Alimentação e bebidas,0.88,Alimentação e bebidas
+2012-09-01,2012,9,7170,1.Alimentação e bebidas,1.26,Alimentação e bebidas
+2012-10-01,2012,10,7170,1.Alimentação e bebidas,1.36,Alimentação e bebidas
+2012-11-01,2012,11,7170,1.Alimentação e bebidas,0.79,Alimentação e bebidas
+2012-12-01,2012,12,7170,1.Alimentação e bebidas,1.03,Alimentação e bebidas
+2012-01-01,2012,1,7445,2.Habitação,0.53,Habitação
+2012-02-01,2012,2,7445,2.Habitação,0.6,Habitação
+2012-03-01,2012,3,7445,2.Habitação,0.48,Habitação
+2012-04-01,2012,4,7445,2.Habitação,0.8,Habitação
+2012-05-01,2012,5,7445,2.Habitação,0.8,Habitação
+2012-06-01,2012,6,7445,2.Habitação,0.28,Habitação
+2012-07-01,2012,7,7445,2.Habitação,0.54,Habitação
+2012-08-01,2012,8,7445,2.Habitação,0.22,Habitação
+2012-09-01,2012,9,7445,2.Habitação,0.71,Habitação
+2012-10-01,2012,10,7445,2.Habitação,0.38,Habitação
+2012-11-01,2012,11,7445,2.Habitação,0.64,Habitação
+2012-12-01,2012,12,7445,2.Habitação,0.63,Habitação
+2012-01-01,2012,1,7625,5.Transportes,0.69,Transportes
+2012-02-01,2012,2,7625,5.Transportes,-0.33,Transportes
+2012-03-01,2012,3,7625,5.Transportes,0.16,Transportes
+2012-04-01,2012,4,7625,5.Transportes,0.1,Transportes
+2012-05-01,2012,5,7625,5.Transportes,-0.58,Transportes
+2012-06-01,2012,6,7625,5.Transportes,-1.18,Transportes
+2012-07-01,2012,7,7625,5.Transportes,-0.03,Transportes
+2012-08-01,2012,8,7625,5.Transportes,0.06,Transportes
+2012-09-01,2012,9,7625,5.Transportes,-0.08,Transportes
+2012-10-01,2012,10,7625,5.Transportes,0.24,Transportes
+2012-11-01,2012,11,7625,5.Transportes,0.68,Transportes
+2012-12-01,2012,12,7625,5.Transportes,0.75,Transportes
+2012-01-01,2012,1,7626,51.Transportes,0.69,Transportes
+2012-02-01,2012,2,7626,51.Transportes,-0.33,Transportes
+2012-03-01,2012,3,7626,51.Transportes,0.16,Transportes
+2012-04-01,2012,4,7626,51.Transportes,0.1,Transportes
+2012-05-01,2012,5,7626,51.Transportes,-0.58,Transportes
+2012-06-01,2012,6,7626,51.Transportes,-1.18,Transportes
+2012-07-01,2012,7,7626,51.Transportes,-0.03,Transportes
+2012-08-01,2012,8,7626,51.Transportes,0.06,Transportes
+2012-09-01,2012,9,7626,51.Transportes,-0.08,Transportes
+2012-10-01,2012,10,7626,51.Transportes,0.24,Transportes
+2012-11-01,2012,11,7626,51.Transportes,0.68,Transportes
+2012-12-01,2012,12,7626,51.Transportes,0.75,Transportes
+2012-01-01,2012,1,7660,6.Saúde e cuidados pessoais,0.3,Saúde e cuidados pessoais
+2012-02-01,2012,2,7660,6.Saúde e cuidados pessoais,0.7,Saúde e cuidados pessoais
+2012-03-01,2012,3,7660,6.Saúde e cuidados pessoais,0.38,Saúde e cuidados pessoais
+2012-04-01,2012,4,7660,6.Saúde e cuidados pessoais,0.96,Saúde e cuidados pessoais
+2012-05-01,2012,5,7660,6.Saúde e cuidados pessoais,0.66,Saúde e cuidados pessoais
+2012-06-01,2012,6,7660,6.Saúde e cuidados pessoais,0.38,Saúde e cuidados pessoais
+2012-07-01,2012,7,7660,6.Saúde e cuidados pessoais,0.36,Saúde e cuidados pessoais
+2012-08-01,2012,8,7660,6.Saúde e cuidados pessoais,0.53,Saúde e cuidados pessoais
+2012-09-01,2012,9,7660,6.Saúde e cuidados pessoais,0.32,Saúde e cuidados pessoais
+2012-10-01,2012,10,7660,6.Saúde e cuidados pessoais,0.48,Saúde e cuidados pessoais
+2012-11-01,2012,11,7660,6.Saúde e cuidados pessoais,0.32,Saúde e cuidados pessoais
+2012-12-01,2012,12,7660,6.Saúde e cuidados pessoais,0.4,Saúde e cuidados pessoais
+2012-01-01,2012,1,7766,8.Educação,0.39,Educação
+2012-02-01,2012,2,7766,8.Educação,5.62,Educação
+2012-03-01,2012,3,7766,8.Educação,0.54,Educação
+2012-04-01,2012,4,7766,8.Educação,0.04,Educação
+2012-05-01,2012,5,7766,8.Educação,-0.01,Educação
+2012-06-01,2012,6,7766,8.Educação,0.06,Educação
+2012-07-01,2012,7,7766,8.Educação,0.12,Educação
+2012-08-01,2012,8,7766,8.Educação,0.51,Educação
+2012-09-01,2012,9,7766,8.Educação,0.1,Educação
+2012-10-01,2012,10,7766,8.Educação,0.05,Educação
+2012-11-01,2012,11,7766,8.Educação,0.05,Educação
+2012-12-01,2012,12,7766,8.Educação,0.19,Educação
+2012-01-01,2012,1,7786,9.Comunicação,0.21,Comunicação
+2012-02-01,2012,2,7786,9.Comunicação,-0.17,Comunicação
+2012-03-01,2012,3,7786,9.Comunicação,-0.36,Comunicação
+2012-04-01,2012,4,7786,9.Comunicação,0.46,Comunicação
+2012-05-01,2012,5,7786,9.Comunicação,-0.19,Comunicação
+2012-06-01,2012,6,7786,9.Comunicação,-0.01,Comunicação
+2012-07-01,2012,7,7786,9.Comunicação,0.15,Comunicação
+2012-08-01,2012,8,7786,9.Comunicação,-0.01,Comunicação
+2012-09-01,2012,9,7786,9.Comunicação,0.03,Comunicação
+2012-10-01,2012,10,7786,9.Comunicação,0.31,Comunicação
+2012-11-01,2012,11,7786,9.Comunicação,0.31,Comunicação
+2012-12-01,2012,12,7786,9.Comunicação,0.03,Comunicação
+2012-01-01,2012,1,7787,91.Comunicação,0.21,Comunicação
+2012-02-01,2012,2,7787,91.Comunicação,-0.17,Comunicação
+2012-03-01,2012,3,7787,91.Comunicação,-0.36,Comunicação
+2012-04-01,2012,4,7787,91.Comunicação,0.46,Comunicação
+2012-05-01,2012,5,7787,91.Comunicação,-0.19,Comunicação
+2012-06-01,2012,6,7787,91.Comunicação,-0.01,Comunicação
+2012-07-01,2012,7,7787,91.Comunicação,0.15,Comunicação
+2012-08-01,2012,8,7787,91.Comunicação,-0.01,Comunicação
+2012-09-01,2012,9,7787,91.Comunicação,0.03,Comunicação
+2012-10-01,2012,10,7787,91.Comunicação,0.31,Comunicação
+2012-11-01,2012,11,7787,91.Comunicação,0.31,Comunicação
+2012-12-01,2012,12,7787,91.Comunicação,0.03,Comunicação
+2012-01-01,2012,1,7788,9101.Comunicação,0.21,Comunicação
+2012-02-01,2012,2,7788,9101.Comunicação,-0.17,Comunicação
+2012-03-01,2012,3,7788,9101.Comunicação,-0.36,Comunicação
+2012-04-01,2012,4,7788,9101.Comunicação,0.46,Comunicação
+2012-05-01,2012,5,7788,9101.Comunicação,-0.19,Comunicação
+2012-06-01,2012,6,7788,9101.Comunicação,-0.01,Comunicação
+2012-07-01,2012,7,7788,9101.Comunicação,0.15,Comunicação
+2012-08-01,2012,8,7788,9101.Comunicação,-0.01,Comunicação
+2012-09-01,2012,9,7788,9101.Comunicação,0.03,Comunicação
+2012-10-01,2012,10,7788,9101.Comunicação,0.31,Comunicação
+2012-11-01,2012,11,7788,9101.Comunicação,0.31,Comunicação
+2012-12-01,2012,12,7788,9101.Comunicação,0.03,Comunicação
+2013-01-01,2013,1,7170,1.Alimentação e bebidas,1.99,Alimentação e bebidas
+2013-02-01,2013,2,7170,1.Alimentação e bebidas,1.45,Alimentação e bebidas
+2013-03-01,2013,3,7170,1.Alimentação e bebidas,1.14,Alimentação e bebidas
+2013-04-01,2013,4,7170,1.Alimentação e bebidas,0.96,Alimentação e bebidas
+2013-05-01,2013,5,7170,1.Alimentação e bebidas,0.31,Alimentação e bebidas
+2013-06-01,2013,6,7170,1.Alimentação e bebidas,0.04,Alimentação e bebidas
+2013-07-01,2013,7,7170,1.Alimentação e bebidas,-0.33,Alimentação e bebidas
+2013-08-01,2013,8,7170,1.Alimentação e bebidas,0.01,Alimentação e bebidas
+2013-09-01,2013,9,7170,1.Alimentação e bebidas,0.14,Alimentação e bebidas
+2013-10-01,2013,10,7170,1.Alimentação e bebidas,1.03,Alimentação e bebidas
+2013-11-01,2013,11,7170,1.Alimentação e bebidas,0.56,Alimentação e bebidas
+2013-12-01,2013,12,7170,1.Alimentação e bebidas,0.89,Alimentação e bebidas
+2013-01-01,2013,1,7445,2.Habitação,-0.2,Habitação
+2013-02-01,2013,2,7445,2.Habitação,-2.38,Habitação
+2013-03-01,2013,3,7445,2.Habitação,0.51,Habitação
+2013-04-01,2013,4,7445,2.Habitação,0.62,Habitação
+2013-05-01,2013,5,7445,2.Habitação,0.75,Habitação
+2013-06-01,2013,6,7445,2.Habitação,0.57,Habitação
+2013-07-01,2013,7,7445,2.Habitação,0.57,Habitação
+2013-08-01,2013,8,7445,2.Habitação,0.57,Habitação
+2013-09-01,2013,9,7445,2.Habitação,0.62,Habitação
+2013-10-01,2013,10,7445,2.Habitação,0.56,Habitação
+2013-11-01,2013,11,7445,2.Habitação,0.69,Habitação
+2013-12-01,2013,12,7445,2.Habitação,0.52,Habitação
+2013-01-01,2013,1,7625,5.Transportes,0.75,Transportes
+2013-02-01,2013,2,7625,5.Transportes,0.81,Transportes
+2013-03-01,2013,3,7625,5.Transportes,-0.09,Transportes
+2013-04-01,2013,4,7625,5.Transportes,-0.19,Transportes
+2013-05-01,2013,5,7625,5.Transportes,-0.25,Transportes
+2013-06-01,2013,6,7625,5.Transportes,0.14,Transportes
+2013-07-01,2013,7,7625,5.Transportes,-0.66,Transportes
+2013-08-01,2013,8,7625,5.Transportes,-0.06,Transportes
+2013-09-01,2013,9,7625,5.Transportes,0.44,Transportes
+2013-10-01,2013,10,7625,5.Transportes,0.17,Transportes
+2013-11-01,2013,11,7625,5.Transportes,0.36,Transportes
+2013-12-01,2013,12,7625,5.Transportes,1.85,Transportes
+2013-01-01,2013,1,7626,51.Transportes,0.75,Transportes
+2013-02-01,2013,2,7626,51.Transportes,0.81,Transportes
+2013-03-01,2013,3,7626,51.Transportes,-0.09,Transportes
+2013-04-01,2013,4,7626,51.Transportes,-0.19,Transportes
+2013-05-01,2013,5,7626,51.Transportes,-0.25,Transportes
+2013-06-01,2013,6,7626,51.Transportes,0.14,Transportes
+2013-07-01,2013,7,7626,51.Transportes,-0.66,Transportes
+2013-08-01,2013,8,7626,51.Transportes,-0.06,Transportes
+2013-09-01,2013,9,7626,51.Transportes,0.44,Transportes
+2013-10-01,2013,10,7626,51.Transportes,0.17,Transportes
+2013-11-01,2013,11,7626,51.Transportes,0.36,Transportes
+2013-12-01,2013,12,7626,51.Transportes,1.85,Transportes
+2013-01-01,2013,1,7660,6.Saúde e cuidados pessoais,0.73,Saúde e cuidados pessoais
+2013-02-01,2013,2,7660,6.Saúde e cuidados pessoais,0.65,Saúde e cuidados pessoais
+2013-03-01,2013,3,7660,6.Saúde e cuidados pessoais,0.32,Saúde e cuidados pessoais
+2013-04-01,2013,4,7660,6.Saúde e cuidados pessoais,1.28,Saúde e cuidados pessoais
+2013-05-01,2013,5,7660,6.Saúde e cuidados pessoais,0.94,Saúde e cuidados pessoais
+2013-06-01,2013,6,7660,6.Saúde e cuidados pessoais,0.36,Saúde e cuidados pessoais
+2013-07-01,2013,7,7660,6.Saúde e cuidados pessoais,0.34,Saúde e cuidados pessoais
+2013-08-01,2013,8,7660,6.Saúde e cuidados pessoais,0.45,Saúde e cuidados pessoais
+2013-09-01,2013,9,7660,6.Saúde e cuidados pessoais,0.46,Saúde e cuidados pessoais
+2013-10-01,2013,10,7660,6.Saúde e cuidados pessoais,0.39,Saúde e cuidados pessoais
+2013-11-01,2013,11,7660,6.Saúde e cuidados pessoais,0.41,Saúde e cuidados pessoais
+2013-12-01,2013,12,7660,6.Saúde e cuidados pessoais,0.41,Saúde e cuidados pessoais
+2013-01-01,2013,1,7766,8.Educação,0.35,Educação
+2013-02-01,2013,2,7766,8.Educação,5.4,Educação
+2013-03-01,2013,3,7766,8.Educação,0.56,Educação
+2013-04-01,2013,4,7766,8.Educação,0.1,Educação
+2013-05-01,2013,5,7766,8.Educação,0.06,Educação
+2013-06-01,2013,6,7766,8.Educação,0.18,Educação
+2013-07-01,2013,7,7766,8.Educação,0.11,Educação
+2013-08-01,2013,8,7766,8.Educação,0.67,Educação
+2013-09-01,2013,9,7766,8.Educação,0.12,Educação
+2013-10-01,2013,10,7766,8.Educação,0.09,Educação
+2013-11-01,2013,11,7766,8.Educação,0.08,Educação
+2013-12-01,2013,12,7766,8.Educação,0.05,Educação
+2013-01-01,2013,1,7786,9.Comunicação,-0.08,Comunicação
+2013-02-01,2013,2,7786,9.Comunicação,0.1,Comunicação
+2013-03-01,2013,3,7786,9.Comunicação,0.13,Comunicação
+2013-04-01,2013,4,7786,9.Comunicação,-0.32,Comunicação
+2013-05-01,2013,5,7786,9.Comunicação,0.08,Comunicação
+2013-06-01,2013,6,7786,9.Comunicação,0.19,Comunicação
+2013-07-01,2013,7,7786,9.Comunicação,0.2,Comunicação
+2013-08-01,2013,8,7786,9.Comunicação,0.02,Comunicação
+2013-09-01,2013,9,7786,9.Comunicação,-0.04,Comunicação
+2013-10-01,2013,10,7786,9.Comunicação,0.08,Comunicação
+2013-11-01,2013,11,7786,9.Comunicação,0.4,Comunicação
+2013-12-01,2013,12,7786,9.Comunicação,0.74,Comunicação
+2013-01-01,2013,1,7787,91.Comunicação,-0.08,Comunicação
+2013-02-01,2013,2,7787,91.Comunicação,0.1,Comunicação
+2013-03-01,2013,3,7787,91.Comunicação,0.13,Comunicação
+2013-04-01,2013,4,7787,91.Comunicação,-0.32,Comunicação
+2013-05-01,2013,5,7787,91.Comunicação,0.08,Comunicação
+2013-06-01,2013,6,7787,91.Comunicação,0.19,Comunicação
+2013-07-01,2013,7,7787,91.Comunicação,0.2,Comunicação
+2013-08-01,2013,8,7787,91.Comunicação,0.02,Comunicação
+2013-09-01,2013,9,7787,91.Comunicação,-0.04,Comunicação
+2013-10-01,2013,10,7787,91.Comunicação,0.08,Comunicação
+2013-11-01,2013,11,7787,91.Comunicação,0.4,Comunicação
+2013-12-01,2013,12,7787,91.Comunicação,0.74,Comunicação
+2013-01-01,2013,1,7788,9101.Comunicação,-0.08,Comunicação
+2013-02-01,2013,2,7788,9101.Comunicação,0.1,Comunicação
+2013-03-01,2013,3,7788,9101.Comunicação,0.13,Comunicação
+2013-04-01,2013,4,7788,9101.Comunicação,-0.32,Comunicação
+2013-05-01,2013,5,7788,9101.Comunicação,0.08,Comunicação
+2013-06-01,2013,6,7788,9101.Comunicação,0.19,Comunicação
+2013-07-01,2013,7,7788,9101.Comunicação,0.2,Comunicação
+2013-08-01,2013,8,7788,9101.Comunicação,0.02,Comunicação
+2013-09-01,2013,9,7788,9101.Comunicação,-0.04,Comunicação
+2013-10-01,2013,10,7788,9101.Comunicação,0.08,Comunicação
+2013-11-01,2013,11,7788,9101.Comunicação,0.4,Comunicação
+2013-12-01,2013,12,7788,9101.Comunicação,0.74,Comunicação
+2014-01-01,2014,1,7170,1.Alimentação e bebidas,0.84,Alimentação e bebidas
+2014-02-01,2014,2,7170,1.Alimentação e bebidas,0.56,Alimentação e bebidas
+2014-03-01,2014,3,7170,1.Alimentação e bebidas,1.92,Alimentação e bebidas
+2014-04-01,2014,4,7170,1.Alimentação e bebidas,1.19,Alimentação e bebidas
+2014-05-01,2014,5,7170,1.Alimentação e bebidas,0.58,Alimentação e bebidas
+2014-06-01,2014,6,7170,1.Alimentação e bebidas,-0.11,Alimentação e bebidas
+2014-07-01,2014,7,7170,1.Alimentação e bebidas,-0.15,Alimentação e bebidas
+2014-08-01,2014,8,7170,1.Alimentação e bebidas,-0.15,Alimentação e bebidas
+2014-09-01,2014,9,7170,1.Alimentação e bebidas,0.78,Alimentação e bebidas
+2014-10-01,2014,10,7170,1.Alimentação e bebidas,0.46,Alimentação e bebidas
+2014-11-01,2014,11,7170,1.Alimentação e bebidas,0.77,Alimentação e bebidas
+2014-12-01,2014,12,7170,1.Alimentação e bebidas,1.08,Alimentação e bebidas
+2014-01-01,2014,1,7445,2.Habitação,0.55,Habitação
+2014-02-01,2014,2,7445,2.Habitação,0.77,Habitação
+2014-03-01,2014,3,7445,2.Habitação,0.33,Habitação
+2014-04-01,2014,4,7445,2.Habitação,0.87,Habitação
+2014-05-01,2014,5,7445,2.Habitação,0.61,Habitação
+2014-06-01,2014,6,7445,2.Habitação,0.55,Habitação
+2014-07-01,2014,7,7445,2.Habitação,1.2,Habitação
+2014-08-01,2014,8,7445,2.Habitação,0.94,Habitação
+2014-09-01,2014,9,7445,2.Habitação,0.77,Habitação
+2014-10-01,2014,10,7445,2.Habitação,0.68,Habitação
+2014-11-01,2014,11,7445,2.Habitação,0.69,Habitação
+2014-12-01,2014,12,7445,2.Habitação,0.51,Habitação
+2014-01-01,2014,1,7625,5.Transportes,-0.03,Transportes
+2014-02-01,2014,2,7625,5.Transportes,-0.05,Transportes
+2014-03-01,2014,3,7625,5.Transportes,1.38,Transportes
+2014-04-01,2014,4,7625,5.Transportes,0.32,Transportes
+2014-05-01,2014,5,7625,5.Transportes,-0.45,Transportes
+2014-06-01,2014,6,7625,5.Transportes,0.37,Transportes
+2014-07-01,2014,7,7625,5.Transportes,-0.98,Transportes
+2014-08-01,2014,8,7625,5.Transportes,0.33,Transportes
+2014-09-01,2014,9,7625,5.Transportes,0.63,Transportes
+2014-10-01,2014,10,7625,5.Transportes,0.39,Transportes
+2014-11-01,2014,11,7625,5.Transportes,0.43,Transportes
+2014-12-01,2014,12,7625,5.Transportes,1.38,Transportes
+2014-01-01,2014,1,7626,51.Transportes,-0.03,Transportes
+2014-02-01,2014,2,7626,51.Transportes,-0.05,Transportes
+2014-03-01,2014,3,7626,51.Transportes,1.38,Transportes
+2014-04-01,2014,4,7626,51.Transportes,0.32,Transportes
+2014-05-01,2014,5,7626,51.Transportes,-0.45,Transportes
+2014-06-01,2014,6,7626,51.Transportes,0.37,Transportes
+2014-07-01,2014,7,7626,51.Transportes,-0.98,Transportes
+2014-08-01,2014,8,7626,51.Transportes,0.33,Transportes
+2014-09-01,2014,9,7626,51.Transportes,0.63,Transportes
+2014-10-01,2014,10,7626,51.Transportes,0.39,Transportes
+2014-11-01,2014,11,7626,51.Transportes,0.43,Transportes
+2014-12-01,2014,12,7626,51.Transportes,1.38,Transportes
+2014-01-01,2014,1,7660,6.Saúde e cuidados pessoais,0.48,Saúde e cuidados pessoais
+2014-02-01,2014,2,7660,6.Saúde e cuidados pessoais,0.74,Saúde e cuidados pessoais
+2014-03-01,2014,3,7660,6.Saúde e cuidados pessoais,0.43,Saúde e cuidados pessoais
+2014-04-01,2014,4,7660,6.Saúde e cuidados pessoais,1.01,Saúde e cuidados pessoais
+2014-05-01,2014,5,7660,6.Saúde e cuidados pessoais,0.98,Saúde e cuidados pessoais
+2014-06-01,2014,6,7660,6.Saúde e cuidados pessoais,0.6,Saúde e cuidados pessoais
+2014-07-01,2014,7,7660,6.Saúde e cuidados pessoais,0.5,Saúde e cuidados pessoais
+2014-08-01,2014,8,7660,6.Saúde e cuidados pessoais,0.41,Saúde e cuidados pessoais
+2014-09-01,2014,9,7660,6.Saúde e cuidados pessoais,0.33,Saúde e cuidados pessoais
+2014-10-01,2014,10,7660,6.Saúde e cuidados pessoais,0.39,Saúde e cuidados pessoais
+2014-11-01,2014,11,7660,6.Saúde e cuidados pessoais,0.42,Saúde e cuidados pessoais
+2014-12-01,2014,12,7660,6.Saúde e cuidados pessoais,0.47,Saúde e cuidados pessoais
+2014-01-01,2014,1,7766,8.Educação,0.57,Educação
+2014-02-01,2014,2,7766,8.Educação,5.97,Educação
+2014-03-01,2014,3,7766,8.Educação,0.53,Educação
+2014-04-01,2014,4,7766,8.Educação,0.03,Educação
+2014-05-01,2014,5,7766,8.Educação,0.13,Educação
+2014-06-01,2014,6,7766,8.Educação,0.02,Educação
+2014-07-01,2014,7,7766,8.Educação,0.04,Educação
+2014-08-01,2014,8,7766,8.Educação,0.43,Educação
+2014-09-01,2014,9,7766,8.Educação,0.18,Educação
+2014-10-01,2014,10,7766,8.Educação,0.11,Educação
+2014-11-01,2014,11,7766,8.Educação,0.21,Educação
+2014-12-01,2014,12,7766,8.Educação,0.07,Educação
+2014-01-01,2014,1,7786,9.Comunicação,0.03,Comunicação
+2014-02-01,2014,2,7786,9.Comunicação,0.14,Comunicação
+2014-03-01,2014,3,7786,9.Comunicação,-1.26,Comunicação
+2014-04-01,2014,4,7786,9.Comunicação,0.02,Comunicação
+2014-05-01,2014,5,7786,9.Comunicação,0.11,Comunicação
+2014-06-01,2014,6,7786,9.Comunicação,-0.02,Comunicação
+2014-07-01,2014,7,7786,9.Comunicação,-0.79,Comunicação
+2014-08-01,2014,8,7786,9.Comunicação,0.1,Comunicação
+2014-09-01,2014,9,7786,9.Comunicação,0.13,Comunicação
+2014-10-01,2014,10,7786,9.Comunicação,-0.05,Comunicação
+2014-11-01,2014,11,7786,9.Comunicação,0.08,Comunicação
+2014-12-01,2014,12,7786,9.Comunicação,0.0,Comunicação
+2014-01-01,2014,1,7787,91.Comunicação,0.03,Comunicação
+2014-02-01,2014,2,7787,91.Comunicação,0.14,Comunicação
+2014-03-01,2014,3,7787,91.Comunicação,-1.26,Comunicação
+2014-04-01,2014,4,7787,91.Comunicação,0.02,Comunicação
+2014-05-01,2014,5,7787,91.Comunicação,0.11,Comunicação
+2014-06-01,2014,6,7787,91.Comunicação,-0.02,Comunicação
+2014-07-01,2014,7,7787,91.Comunicação,-0.79,Comunicação
+2014-08-01,2014,8,7787,91.Comunicação,0.1,Comunicação
+2014-09-01,2014,9,7787,91.Comunicação,0.13,Comunicação
+2014-10-01,2014,10,7787,91.Comunicação,-0.05,Comunicação
+2014-11-01,2014,11,7787,91.Comunicação,0.08,Comunicação
+2014-12-01,2014,12,7787,91.Comunicação,0.0,Comunicação
+2014-01-01,2014,1,7788,9101.Comunicação,0.03,Comunicação
+2014-02-01,2014,2,7788,9101.Comunicação,0.14,Comunicação
+2014-03-01,2014,3,7788,9101.Comunicação,-1.26,Comunicação
+2014-04-01,2014,4,7788,9101.Comunicação,0.02,Comunicação
+2014-05-01,2014,5,7788,9101.Comunicação,0.11,Comunicação
+2014-06-01,2014,6,7788,9101.Comunicação,-0.02,Comunicação
+2014-07-01,2014,7,7788,9101.Comunicação,-0.79,Comunicação
+2014-08-01,2014,8,7788,9101.Comunicação,0.1,Comunicação
+2014-09-01,2014,9,7788,9101.Comunicação,0.13,Comunicação
+2014-10-01,2014,10,7788,9101.Comunicação,-0.05,Comunicação
+2014-11-01,2014,11,7788,9101.Comunicação,0.08,Comunicação
+2014-12-01,2014,12,7788,9101.Comunicação,0.0,Comunicação
+2015-01-01,2015,1,7170,1.Alimentação e bebidas,1.48,Alimentação e bebidas
+2015-02-01,2015,2,7170,1.Alimentação e bebidas,0.81,Alimentação e bebidas
+2015-03-01,2015,3,7170,1.Alimentação e bebidas,1.17,Alimentação e bebidas
+2015-04-01,2015,4,7170,1.Alimentação e bebidas,0.97,Alimentação e bebidas
+2015-05-01,2015,5,7170,1.Alimentação e bebidas,1.37,Alimentação e bebidas
+2015-06-01,2015,6,7170,1.Alimentação e bebidas,0.63,Alimentação e bebidas
+2015-07-01,2015,7,7170,1.Alimentação e bebidas,0.65,Alimentação e bebidas
+2015-08-01,2015,8,7170,1.Alimentação e bebidas,-0.01,Alimentação e bebidas
+2015-09-01,2015,9,7170,1.Alimentação e bebidas,0.24,Alimentação e bebidas
+2015-10-01,2015,10,7170,1.Alimentação e bebidas,0.77,Alimentação e bebidas
+2015-11-01,2015,11,7170,1.Alimentação e bebidas,1.83,Alimentação e bebidas
+2015-12-01,2015,12,7170,1.Alimentação e bebidas,1.5,Alimentação e bebidas
+2015-01-01,2015,1,7445,2.Habitação,2.42,Habitação
+2015-02-01,2015,2,7445,2.Habitação,1.22,Habitação
+2015-03-01,2015,3,7445,2.Habitação,5.29,Habitação
+2015-04-01,2015,4,7445,2.Habitação,0.93,Habitação
+2015-05-01,2015,5,7445,2.Habitação,1.22,Habitação
+2015-06-01,2015,6,7445,2.Habitação,0.86,Habitação
+2015-07-01,2015,7,7445,2.Habitação,1.52,Habitação
+2015-08-01,2015,8,7445,2.Habitação,0.29,Habitação
+2015-09-01,2015,9,7445,2.Habitação,1.3,Habitação
+2015-10-01,2015,10,7445,2.Habitação,0.75,Habitação
+2015-11-01,2015,11,7445,2.Habitação,0.76,Habitação
+2015-12-01,2015,12,7445,2.Habitação,0.49,Habitação
+2015-01-01,2015,1,7625,5.Transportes,1.83,Transportes
+2015-02-01,2015,2,7625,5.Transportes,2.2,Transportes
+2015-03-01,2015,3,7625,5.Transportes,0.46,Transportes
+2015-04-01,2015,4,7625,5.Transportes,0.11,Transportes
+2015-05-01,2015,5,7625,5.Transportes,-0.29,Transportes
+2015-06-01,2015,6,7625,5.Transportes,0.7,Transportes
+2015-07-01,2015,7,7625,5.Transportes,0.15,Transportes
+2015-08-01,2015,8,7625,5.Transportes,-0.27,Transportes
+2015-09-01,2015,9,7625,5.Transportes,0.71,Transportes
+2015-10-01,2015,10,7625,5.Transportes,1.72,Transportes
+2015-11-01,2015,11,7625,5.Transportes,1.08,Transportes
+2015-12-01,2015,12,7625,5.Transportes,1.36,Transportes
+2015-01-01,2015,1,7626,51.Transportes,1.83,Transportes
+2015-02-01,2015,2,7626,51.Transportes,2.2,Transportes
+2015-03-01,2015,3,7626,51.Transportes,0.46,Transportes
+2015-04-01,2015,4,7626,51.Transportes,0.11,Transportes
+2015-05-01,2015,5,7626,51.Transportes,-0.29,Transportes
+2015-06-01,2015,6,7626,51.Transportes,0.7,Transportes
+2015-07-01,2015,7,7626,51.Transportes,0.15,Transportes
+2015-08-01,2015,8,7626,51.Transportes,-0.27,Transportes
+2015-09-01,2015,9,7626,51.Transportes,0.71,Transportes
+2015-10-01,2015,10,7626,51.Transportes,1.72,Transportes
+2015-11-01,2015,11,7626,51.Transportes,1.08,Transportes
+2015-12-01,2015,12,7626,51.Transportes,1.36,Transportes
+2015-01-01,2015,1,7660,6.Saúde e cuidados pessoais,0.32,Saúde e cuidados pessoais
+2015-02-01,2015,2,7660,6.Saúde e cuidados pessoais,0.6,Saúde e cuidados pessoais
+2015-03-01,2015,3,7660,6.Saúde e cuidados pessoais,0.69,Saúde e cuidados pessoais
+2015-04-01,2015,4,7660,6.Saúde e cuidados pessoais,1.32,Saúde e cuidados pessoais
+2015-05-01,2015,5,7660,6.Saúde e cuidados pessoais,1.1,Saúde e cuidados pessoais
+2015-06-01,2015,6,7660,6.Saúde e cuidados pessoais,0.91,Saúde e cuidados pessoais
+2015-07-01,2015,7,7660,6.Saúde e cuidados pessoais,0.84,Saúde e cuidados pessoais
+2015-08-01,2015,8,7660,6.Saúde e cuidados pessoais,0.62,Saúde e cuidados pessoais
+2015-09-01,2015,9,7660,6.Saúde e cuidados pessoais,0.55,Saúde e cuidados pessoais
+2015-10-01,2015,10,7660,6.Saúde e cuidados pessoais,0.55,Saúde e cuidados pessoais
+2015-11-01,2015,11,7660,6.Saúde e cuidados pessoais,0.64,Saúde e cuidados pessoais
+2015-12-01,2015,12,7660,6.Saúde e cuidados pessoais,0.7,Saúde e cuidados pessoais
+2015-01-01,2015,1,7766,8.Educação,0.31,Educação
+2015-02-01,2015,2,7766,8.Educação,5.88,Educação
+2015-03-01,2015,3,7766,8.Educação,0.75,Educação
+2015-04-01,2015,4,7766,8.Educação,0.21,Educação
+2015-05-01,2015,5,7766,8.Educação,0.06,Educação
+2015-06-01,2015,6,7766,8.Educação,0.2,Educação
+2015-07-01,2015,7,7766,8.Educação,0.0,Educação
+2015-08-01,2015,8,7766,8.Educação,0.82,Educação
+2015-09-01,2015,9,7766,8.Educação,0.25,Educação
+2015-10-01,2015,10,7766,8.Educação,0.1,Educação
+2015-11-01,2015,11,7766,8.Educação,0.22,Educação
+2015-12-01,2015,12,7766,8.Educação,0.22,Educação
+2015-01-01,2015,1,7786,9.Comunicação,0.15,Comunicação
+2015-02-01,2015,2,7786,9.Comunicação,-0.02,Comunicação
+2015-03-01,2015,3,7786,9.Comunicação,-1.16,Comunicação
+2015-04-01,2015,4,7786,9.Comunicação,0.31,Comunicação
+2015-05-01,2015,5,7786,9.Comunicação,0.17,Comunicação
+2015-06-01,2015,6,7786,9.Comunicação,0.34,Comunicação
+2015-07-01,2015,7,7786,9.Comunicação,0.3,Comunicação
+2015-08-01,2015,8,7786,9.Comunicação,0.14,Comunicação
+2015-09-01,2015,9,7786,9.Comunicação,0.01,Comunicação
+2015-10-01,2015,10,7786,9.Comunicação,0.39,Comunicação
+2015-11-01,2015,11,7786,9.Comunicação,1.03,Comunicação
+2015-12-01,2015,12,7786,9.Comunicação,0.43,Comunicação
+2015-01-01,2015,1,7787,91.Comunicação,0.15,Comunicação
+2015-02-01,2015,2,7787,91.Comunicação,-0.02,Comunicação
+2015-03-01,2015,3,7787,91.Comunicação,-1.16,Comunicação
+2015-04-01,2015,4,7787,91.Comunicação,0.31,Comunicação
+2015-05-01,2015,5,7787,91.Comunicação,0.17,Comunicação
+2015-06-01,2015,6,7787,91.Comunicação,0.34,Comunicação
+2015-07-01,2015,7,7787,91.Comunicação,0.3,Comunicação
+2015-08-01,2015,8,7787,91.Comunicação,0.14,Comunicação
+2015-09-01,2015,9,7787,91.Comunicação,0.01,Comunicação
+2015-10-01,2015,10,7787,91.Comunicação,0.39,Comunicação
+2015-11-01,2015,11,7787,91.Comunicação,1.03,Comunicação
+2015-12-01,2015,12,7787,91.Comunicação,0.43,Comunicação
+2015-01-01,2015,1,7788,9101.Comunicação,0.15,Comunicação
+2015-02-01,2015,2,7788,9101.Comunicação,-0.02,Comunicação
+2015-03-01,2015,3,7788,9101.Comunicação,-1.16,Comunicação
+2015-04-01,2015,4,7788,9101.Comunicação,0.31,Comunicação
+2015-05-01,2015,5,7788,9101.Comunicação,0.17,Comunicação
+2015-06-01,2015,6,7788,9101.Comunicação,0.34,Comunicação
+2015-07-01,2015,7,7788,9101.Comunicação,0.3,Comunicação
+2015-08-01,2015,8,7788,9101.Comunicação,0.14,Comunicação
+2015-09-01,2015,9,7788,9101.Comunicação,0.01,Comunicação
+2015-10-01,2015,10,7788,9101.Comunicação,0.39,Comunicação
+2015-11-01,2015,11,7788,9101.Comunicação,1.03,Comunicação
+2015-12-01,2015,12,7788,9101.Comunicação,0.43,Comunicação
+2016-01-01,2016,1,7170,1.Alimentação e bebidas,2.28,Alimentação e bebidas
+2016-02-01,2016,2,7170,1.Alimentação e bebidas,1.06,Alimentação e bebidas
+2016-03-01,2016,3,7170,1.Alimentação e bebidas,1.24,Alimentação e bebidas
+2016-04-01,2016,4,7170,1.Alimentação e bebidas,1.09,Alimentação e bebidas
+2016-05-01,2016,5,7170,1.Alimentação e bebidas,0.78,Alimentação e bebidas
+2016-06-01,2016,6,7170,1.Alimentação e bebidas,0.71,Alimentação e bebidas
+2016-07-01,2016,7,7170,1.Alimentação e bebidas,1.32,Alimentação e bebidas
+2016-08-01,2016,8,7170,1.Alimentação e bebidas,0.3,Alimentação e bebidas
+2016-09-01,2016,9,7170,1.Alimentação e bebidas,-0.29,Alimentação e bebidas
+2016-10-01,2016,10,7170,1.Alimentação e bebidas,-0.05,Alimentação e bebidas
+2016-11-01,2016,11,7170,1.Alimentação e bebidas,-0.2,Alimentação e bebidas
+2016-12-01,2016,12,7170,1.Alimentação e bebidas,0.08,Alimentação e bebidas
+2016-01-01,2016,1,7445,2.Habitação,0.81,Habitação
+2016-02-01,2016,2,7445,2.Habitação,-0.15,Habitação
+2016-03-01,2016,3,7445,2.Habitação,-0.64,Habitação
+2016-04-01,2016,4,7445,2.Habitação,-0.38,Habitação
+2016-05-01,2016,5,7445,2.Habitação,1.79,Habitação
+2016-06-01,2016,6,7445,2.Habitação,0.63,Habitação
+2016-07-01,2016,7,7445,2.Habitação,-0.29,Habitação
+2016-08-01,2016,8,7445,2.Habitação,0.3,Habitação
+2016-09-01,2016,9,7445,2.Habitação,0.63,Habitação
+2016-10-01,2016,10,7445,2.Habitação,0.42,Habitação
+2016-11-01,2016,11,7445,2.Habitação,0.3,Habitação
+2016-12-01,2016,12,7445,2.Habitação,-0.59,Habitação
+2016-01-01,2016,1,7625,5.Transportes,1.77,Transportes
+2016-02-01,2016,2,7625,5.Transportes,0.62,Transportes
+2016-03-01,2016,3,7625,5.Transportes,0.16,Transportes
+2016-04-01,2016,4,7625,5.Transportes,0.03,Transportes
+2016-05-01,2016,5,7625,5.Transportes,-0.58,Transportes
+2016-06-01,2016,6,7625,5.Transportes,-0.53,Transportes
+2016-07-01,2016,7,7625,5.Transportes,0.4,Transportes
+2016-08-01,2016,8,7625,5.Transportes,0.27,Transportes
+2016-09-01,2016,9,7625,5.Transportes,-0.1,Transportes
+2016-10-01,2016,10,7625,5.Transportes,0.75,Transportes
+2016-11-01,2016,11,7625,5.Transportes,0.28,Transportes
+2016-12-01,2016,12,7625,5.Transportes,1.11,Transportes
+2016-01-01,2016,1,7626,51.Transportes,1.77,Transportes
+2016-02-01,2016,2,7626,51.Transportes,0.62,Transportes
+2016-03-01,2016,3,7626,51.Transportes,0.16,Transportes
+2016-04-01,2016,4,7626,51.Transportes,0.03,Transportes
+2016-05-01,2016,5,7626,51.Transportes,-0.58,Transportes
+2016-06-01,2016,6,7626,51.Transportes,-0.53,Transportes
+2016-07-01,2016,7,7626,51.Transportes,0.4,Transportes
+2016-08-01,2016,8,7626,51.Transportes,0.27,Transportes
+2016-09-01,2016,9,7626,51.Transportes,-0.1,Transportes
+2016-10-01,2016,10,7626,51.Transportes,0.75,Transportes
+2016-11-01,2016,11,7626,51.Transportes,0.28,Transportes
+2016-12-01,2016,12,7626,51.Transportes,1.11,Transportes
+2016-01-01,2016,1,7660,6.Saúde e cuidados pessoais,0.81,Saúde e cuidados pessoais
+2016-02-01,2016,2,7660,6.Saúde e cuidados pessoais,0.94,Saúde e cuidados pessoais
+2016-03-01,2016,3,7660,6.Saúde e cuidados pessoais,0.78,Saúde e cuidados pessoais
+2016-04-01,2016,4,7660,6.Saúde e cuidados pessoais,2.33,Saúde e cuidados pessoais
+2016-05-01,2016,5,7660,6.Saúde e cuidados pessoais,1.62,Saúde e cuidados pessoais
+2016-06-01,2016,6,7660,6.Saúde e cuidados pessoais,0.83,Saúde e cuidados pessoais
+2016-07-01,2016,7,7660,6.Saúde e cuidados pessoais,0.61,Saúde e cuidados pessoais
+2016-08-01,2016,8,7660,6.Saúde e cuidados pessoais,0.8,Saúde e cuidados pessoais
+2016-09-01,2016,9,7660,6.Saúde e cuidados pessoais,0.33,Saúde e cuidados pessoais
+2016-10-01,2016,10,7660,6.Saúde e cuidados pessoais,0.43,Saúde e cuidados pessoais
+2016-11-01,2016,11,7660,6.Saúde e cuidados pessoais,0.57,Saúde e cuidados pessoais
+2016-12-01,2016,12,7660,6.Saúde e cuidados pessoais,0.49,Saúde e cuidados pessoais
+2016-01-01,2016,1,7766,8.Educação,0.31,Educação
+2016-02-01,2016,2,7766,8.Educação,5.9,Educação
+2016-03-01,2016,3,7766,8.Educação,0.63,Educação
+2016-04-01,2016,4,7766,8.Educação,0.2,Educação
+2016-05-01,2016,5,7766,8.Educação,0.16,Educação
+2016-06-01,2016,6,7766,8.Educação,0.11,Educação
+2016-07-01,2016,7,7766,8.Educação,0.04,Educação
+2016-08-01,2016,8,7766,8.Educação,0.99,Educação
+2016-09-01,2016,9,7766,8.Educação,0.18,Educação
+2016-10-01,2016,10,7766,8.Educação,0.02,Educação
+2016-11-01,2016,11,7766,8.Educação,0.06,Educação
+2016-12-01,2016,12,7766,8.Educação,0.07,Educação
+2016-01-01,2016,1,7786,9.Comunicação,0.22,Comunicação
+2016-02-01,2016,2,7786,9.Comunicação,0.66,Comunicação
+2016-03-01,2016,3,7786,9.Comunicação,-1.65,Comunicação
+2016-04-01,2016,4,7786,9.Comunicação,1.47,Comunicação
+2016-05-01,2016,5,7786,9.Comunicação,0.01,Comunicação
+2016-06-01,2016,6,7786,9.Comunicação,0.04,Comunicação
+2016-07-01,2016,7,7786,9.Comunicação,0.02,Comunicação
+2016-08-01,2016,8,7786,9.Comunicação,-0.02,Comunicação
+2016-09-01,2016,9,7786,9.Comunicação,0.18,Comunicação
+2016-10-01,2016,10,7786,9.Comunicação,0.07,Comunicação
+2016-11-01,2016,11,7786,9.Comunicação,0.27,Comunicação
+2016-12-01,2016,12,7786,9.Comunicação,0.02,Comunicação
+2016-01-01,2016,1,7787,91.Comunicação,0.22,Comunicação
+2016-02-01,2016,2,7787,91.Comunicação,0.66,Comunicação
+2016-03-01,2016,3,7787,91.Comunicação,-1.65,Comunicação
+2016-04-01,2016,4,7787,91.Comunicação,1.47,Comunicação
+2016-05-01,2016,5,7787,91.Comunicação,0.01,Comunicação
+2016-06-01,2016,6,7787,91.Comunicação,0.04,Comunicação
+2016-07-01,2016,7,7787,91.Comunicação,0.02,Comunicação
+2016-08-01,2016,8,7787,91.Comunicação,-0.02,Comunicação
+2016-09-01,2016,9,7787,91.Comunicação,0.18,Comunicação
+2016-10-01,2016,10,7787,91.Comunicação,0.07,Comunicação
+2016-11-01,2016,11,7787,91.Comunicação,0.27,Comunicação
+2016-12-01,2016,12,7787,91.Comunicação,0.02,Comunicação
+2016-01-01,2016,1,7788,9101.Comunicação,0.22,Comunicação
+2016-02-01,2016,2,7788,9101.Comunicação,0.66,Comunicação
+2016-03-01,2016,3,7788,9101.Comunicação,-1.65,Comunicação
+2016-04-01,2016,4,7788,9101.Comunicação,1.47,Comunicação
+2016-05-01,2016,5,7788,9101.Comunicação,0.01,Comunicação
+2016-06-01,2016,6,7788,9101.Comunicação,0.04,Comunicação
+2016-07-01,2016,7,7788,9101.Comunicação,0.02,Comunicação
+2016-08-01,2016,8,7788,9101.Comunicação,-0.02,Comunicação
+2016-09-01,2016,9,7788,9101.Comunicação,0.18,Comunicação
+2016-10-01,2016,10,7788,9101.Comunicação,0.07,Comunicação
+2016-11-01,2016,11,7788,9101.Comunicação,0.27,Comunicação
+2016-12-01,2016,12,7788,9101.Comunicação,0.02,Comunicação
+2017-01-01,2017,1,7170,1.Alimentação e bebidas,0.35,Alimentação e bebidas
+2017-02-01,2017,2,7170,1.Alimentação e bebidas,-0.45,Alimentação e bebidas
+2017-03-01,2017,3,7170,1.Alimentação e bebidas,0.34,Alimentação e bebidas
+2017-04-01,2017,4,7170,1.Alimentação e bebidas,0.58,Alimentação e bebidas
+2017-05-01,2017,5,7170,1.Alimentação e bebidas,-0.35,Alimentação e bebidas
+2017-06-01,2017,6,7170,1.Alimentação e bebidas,-0.5,Alimentação e bebidas
+2017-07-01,2017,7,7170,1.Alimentação e bebidas,-0.47,Alimentação e bebidas
+2017-08-01,2017,8,7170,1.Alimentação e bebidas,-1.07,Alimentação e bebidas
+2017-09-01,2017,9,7170,1.Alimentação e bebidas,-0.41,Alimentação e bebidas
+2017-10-01,2017,10,7170,1.Alimentação e bebidas,-0.05,Alimentação e bebidas
+2017-11-01,2017,11,7170,1.Alimentação e bebidas,-0.38,Alimentação e bebidas
+2017-12-01,2017,12,7170,1.Alimentação e bebidas,0.54,Alimentação e bebidas
+2017-01-01,2017,1,7445,2.Habitação,0.17,Habitação
+2017-02-01,2017,2,7445,2.Habitação,0.24,Habitação
+2017-03-01,2017,3,7445,2.Habitação,1.18,Habitação
+2017-04-01,2017,4,7445,2.Habitação,-1.09,Habitação
+2017-05-01,2017,5,7445,2.Habitação,2.14,Habitação
+2017-06-01,2017,6,7445,2.Habitação,-0.77,Habitação
+2017-07-01,2017,7,7445,2.Habitação,1.64,Habitação
+2017-08-01,2017,8,7445,2.Habitação,0.57,Habitação
+2017-09-01,2017,9,7445,2.Habitação,-0.12,Habitação
+2017-10-01,2017,10,7445,2.Habitação,1.33,Habitação
+2017-11-01,2017,11,7445,2.Habitação,1.27,Habitação
+2017-12-01,2017,12,7445,2.Habitação,-0.4,Habitação
+2017-01-01,2017,1,7625,5.Transportes,0.77,Transportes
+2017-02-01,2017,2,7625,5.Transportes,0.24,Transportes
+2017-03-01,2017,3,7625,5.Transportes,-0.86,Transportes
+2017-04-01,2017,4,7625,5.Transportes,-0.06,Transportes
+2017-05-01,2017,5,7625,5.Transportes,-0.42,Transportes
+2017-06-01,2017,6,7625,5.Transportes,-0.52,Transportes
+2017-07-01,2017,7,7625,5.Transportes,0.34,Transportes
+2017-08-01,2017,8,7625,5.Transportes,1.53,Transportes
+2017-09-01,2017,9,7625,5.Transportes,0.79,Transportes
+2017-10-01,2017,10,7625,5.Transportes,0.49,Transportes
+2017-11-01,2017,11,7625,5.Transportes,0.52,Transportes
+2017-12-01,2017,12,7625,5.Transportes,1.23,Transportes
+2017-01-01,2017,1,7626,51.Transportes,0.77,Transportes
+2017-02-01,2017,2,7626,51.Transportes,0.24,Transportes
+2017-03-01,2017,3,7626,51.Transportes,-0.86,Transportes
+2017-04-01,2017,4,7626,51.Transportes,-0.06,Transportes
+2017-05-01,2017,5,7626,51.Transportes,-0.42,Transportes
+2017-06-01,2017,6,7626,51.Transportes,-0.52,Transportes
+2017-07-01,2017,7,7626,51.Transportes,0.34,Transportes
+2017-08-01,2017,8,7626,51.Transportes,1.53,Transportes
+2017-09-01,2017,9,7626,51.Transportes,0.79,Transportes
+2017-10-01,2017,10,7626,51.Transportes,0.49,Transportes
+2017-11-01,2017,11,7626,51.Transportes,0.52,Transportes
+2017-12-01,2017,12,7626,51.Transportes,1.23,Transportes
+2017-01-01,2017,1,7660,6.Saúde e cuidados pessoais,0.55,Saúde e cuidados pessoais
+2017-02-01,2017,2,7660,6.Saúde e cuidados pessoais,0.65,Saúde e cuidados pessoais
+2017-03-01,2017,3,7660,6.Saúde e cuidados pessoais,0.69,Saúde e cuidados pessoais
+2017-04-01,2017,4,7660,6.Saúde e cuidados pessoais,1.0,Saúde e cuidados pessoais
+2017-05-01,2017,5,7660,6.Saúde e cuidados pessoais,0.62,Saúde e cuidados pessoais
+2017-06-01,2017,6,7660,6.Saúde e cuidados pessoais,0.46,Saúde e cuidados pessoais
+2017-07-01,2017,7,7660,6.Saúde e cuidados pessoais,0.37,Saúde e cuidados pessoais
+2017-08-01,2017,8,7660,6.Saúde e cuidados pessoais,0.41,Saúde e cuidados pessoais
+2017-09-01,2017,9,7660,6.Saúde e cuidados pessoais,0.32,Saúde e cuidados pessoais
+2017-10-01,2017,10,7660,6.Saúde e cuidados pessoais,0.52,Saúde e cuidados pessoais
+2017-11-01,2017,11,7660,6.Saúde e cuidados pessoais,0.34,Saúde e cuidados pessoais
+2017-12-01,2017,12,7660,6.Saúde e cuidados pessoais,0.4,Saúde e cuidados pessoais
+2017-01-01,2017,1,7766,8.Educação,0.29,Educação
+2017-02-01,2017,2,7766,8.Educação,5.04,Educação
+2017-03-01,2017,3,7766,8.Educação,0.95,Educação
+2017-04-01,2017,4,7766,8.Educação,0.03,Educação
+2017-05-01,2017,5,7766,8.Educação,0.08,Educação
+2017-06-01,2017,6,7766,8.Educação,0.08,Educação
+2017-07-01,2017,7,7766,8.Educação,-0.02,Educação
+2017-08-01,2017,8,7766,8.Educação,0.24,Educação
+2017-09-01,2017,9,7766,8.Educação,0.04,Educação
+2017-10-01,2017,10,7766,8.Educação,0.06,Educação
+2017-11-01,2017,11,7766,8.Educação,0.03,Educação
+2017-12-01,2017,12,7766,8.Educação,0.15,Educação
+2017-01-01,2017,1,7786,9.Comunicação,0.63,Comunicação
+2017-02-01,2017,2,7786,9.Comunicação,0.66,Comunicação
+2017-03-01,2017,3,7786,9.Comunicação,-0.63,Comunicação
+2017-04-01,2017,4,7786,9.Comunicação,0.55,Comunicação
+2017-05-01,2017,5,7786,9.Comunicação,0.09,Comunicação
+2017-06-01,2017,6,7786,9.Comunicação,0.09,Comunicação
+2017-07-01,2017,7,7786,9.Comunicação,-0.02,Comunicação
+2017-08-01,2017,8,7786,9.Comunicação,-0.56,Comunicação
+2017-09-01,2017,9,7786,9.Comunicação,0.5,Comunicação
+2017-10-01,2017,10,7786,9.Comunicação,0.4,Comunicação
+2017-11-01,2017,11,7786,9.Comunicação,0.15,Comunicação
+2017-12-01,2017,12,7786,9.Comunicação,-0.11,Comunicação
+2017-01-01,2017,1,7787,91.Comunicação,0.63,Comunicação
+2017-02-01,2017,2,7787,91.Comunicação,0.66,Comunicação
+2017-03-01,2017,3,7787,91.Comunicação,-0.63,Comunicação
+2017-04-01,2017,4,7787,91.Comunicação,0.55,Comunicação
+2017-05-01,2017,5,7787,91.Comunicação,0.09,Comunicação
+2017-06-01,2017,6,7787,91.Comunicação,0.09,Comunicação
+2017-07-01,2017,7,7787,91.Comunicação,-0.02,Comunicação
+2017-08-01,2017,8,7787,91.Comunicação,-0.56,Comunicação
+2017-09-01,2017,9,7787,91.Comunicação,0.5,Comunicação
+2017-10-01,2017,10,7787,91.Comunicação,0.4,Comunicação
+2017-11-01,2017,11,7787,91.Comunicação,0.15,Comunicação
+2017-12-01,2017,12,7787,91.Comunicação,-0.11,Comunicação
+2017-01-01,2017,1,7788,9101.Comunicação,0.63,Comunicação
+2017-02-01,2017,2,7788,9101.Comunicação,0.66,Comunicação
+2017-03-01,2017,3,7788,9101.Comunicação,-0.63,Comunicação
+2017-04-01,2017,4,7788,9101.Comunicação,0.55,Comunicação
+2017-05-01,2017,5,7788,9101.Comunicação,0.09,Comunicação
+2017-06-01,2017,6,7788,9101.Comunicação,0.09,Comunicação
+2017-07-01,2017,7,7788,9101.Comunicação,-0.02,Comunicação
+2017-08-01,2017,8,7788,9101.Comunicação,-0.56,Comunicação
+2017-09-01,2017,9,7788,9101.Comunicação,0.5,Comunicação
+2017-10-01,2017,10,7788,9101.Comunicação,0.4,Comunicação
+2017-11-01,2017,11,7788,9101.Comunicação,0.15,Comunicação
+2017-12-01,2017,12,7788,9101.Comunicação,-0.11,Comunicação
+2018-01-01,2018,1,7170,1.Alimentação e bebidas,0.74,Alimentação e bebidas
+2018-02-01,2018,2,7170,1.Alimentação e bebidas,-0.33,Alimentação e bebidas
+2018-03-01,2018,3,7170,1.Alimentação e bebidas,0.07,Alimentação e bebidas
+2018-04-01,2018,4,7170,1.Alimentação e bebidas,0.09,Alimentação e bebidas
+2018-05-01,2018,5,7170,1.Alimentação e bebidas,0.32,Alimentação e bebidas
+2018-06-01,2018,6,7170,1.Alimentação e bebidas,2.03,Alimentação e bebidas
+2018-07-01,2018,7,7170,1.Alimentação e bebidas,-0.12,Alimentação e bebidas
+2018-08-01,2018,8,7170,1.Alimentação e bebidas,-0.34,Alimentação e bebidas
+2018-09-01,2018,9,7170,1.Alimentação e bebidas,0.1,Alimentação e bebidas
+2018-10-01,2018,10,7170,1.Alimentação e bebidas,0.59,Alimentação e bebidas
+2018-11-01,2018,11,7170,1.Alimentação e bebidas,0.39,Alimentação e bebidas
+2018-12-01,2018,12,7170,1.Alimentação e bebidas,0.44,Alimentação e bebidas
+2018-01-01,2018,1,7445,2.Habitação,-0.85,Habitação
+2018-02-01,2018,2,7445,2.Habitação,0.22,Habitação
+2018-03-01,2018,3,7445,2.Habitação,0.19,Habitação
+2018-04-01,2018,4,7445,2.Habitação,0.17,Habitação
+2018-05-01,2018,5,7445,2.Habitação,0.83,Habitação
+2018-06-01,2018,6,7445,2.Habitação,2.48,Habitação
+2018-07-01,2018,7,7445,2.Habitação,1.54,Habitação
+2018-08-01,2018,8,7445,2.Habitação,0.44,Habitação
+2018-09-01,2018,9,7445,2.Habitação,0.37,Habitação
+2018-10-01,2018,10,7445,2.Habitação,0.14,Habitação
+2018-11-01,2018,11,7445,2.Habitação,-0.71,Habitação
+2018-12-01,2018,12,7445,2.Habitação,-0.15,Habitação
+2018-01-01,2018,1,7625,5.Transportes,1.1,Transportes
+2018-02-01,2018,2,7625,5.Transportes,0.74,Transportes
+2018-03-01,2018,3,7625,5.Transportes,-0.25,Transportes
+2018-04-01,2018,4,7625,5.Transportes,0.0,Transportes
+2018-05-01,2018,5,7625,5.Transportes,0.4,Transportes
+2018-06-01,2018,6,7625,5.Transportes,1.58,Transportes
+2018-07-01,2018,7,7625,5.Transportes,0.49,Transportes
+2018-08-01,2018,8,7625,5.Transportes,-1.22,Transportes
+2018-09-01,2018,9,7625,5.Transportes,1.69,Transportes
+2018-10-01,2018,10,7625,5.Transportes,0.92,Transportes
+2018-11-01,2018,11,7625,5.Transportes,-0.74,Transportes
+2018-12-01,2018,12,7625,5.Transportes,-0.54,Transportes
+2018-01-01,2018,1,7626,51.Transportes,1.1,Transportes
+2018-02-01,2018,2,7626,51.Transportes,0.74,Transportes
+2018-03-01,2018,3,7626,51.Transportes,-0.25,Transportes
+2018-04-01,2018,4,7626,51.Transportes,0.0,Transportes
+2018-05-01,2018,5,7626,51.Transportes,0.4,Transportes
+2018-06-01,2018,6,7626,51.Transportes,1.58,Transportes
+2018-07-01,2018,7,7626,51.Transportes,0.49,Transportes
+2018-08-01,2018,8,7626,51.Transportes,-1.22,Transportes
+2018-09-01,2018,9,7626,51.Transportes,1.69,Transportes
+2018-10-01,2018,10,7626,51.Transportes,0.92,Transportes
+2018-11-01,2018,11,7626,51.Transportes,-0.74,Transportes
+2018-12-01,2018,12,7626,51.Transportes,-0.54,Transportes
+2018-01-01,2018,1,7660,6.Saúde e cuidados pessoais,0.42,Saúde e cuidados pessoais
+2018-02-01,2018,2,7660,6.Saúde e cuidados pessoais,0.38,Saúde e cuidados pessoais
+2018-03-01,2018,3,7660,6.Saúde e cuidados pessoais,0.48,Saúde e cuidados pessoais
+2018-04-01,2018,4,7660,6.Saúde e cuidados pessoais,0.91,Saúde e cuidados pessoais
+2018-05-01,2018,5,7660,6.Saúde e cuidados pessoais,0.57,Saúde e cuidados pessoais
+2018-06-01,2018,6,7660,6.Saúde e cuidados pessoais,0.37,Saúde e cuidados pessoais
+2018-07-01,2018,7,7660,6.Saúde e cuidados pessoais,0.07,Saúde e cuidados pessoais
+2018-08-01,2018,8,7660,6.Saúde e cuidados pessoais,0.53,Saúde e cuidados pessoais
+2018-09-01,2018,9,7660,6.Saúde e cuidados pessoais,0.28,Saúde e cuidados pessoais
+2018-10-01,2018,10,7660,6.Saúde e cuidados pessoais,0.27,Saúde e cuidados pessoais
+2018-11-01,2018,11,7660,6.Saúde e cuidados pessoais,-0.71,Saúde e cuidados pessoais
+2018-12-01,2018,12,7660,6.Saúde e cuidados pessoais,0.32,Saúde e cuidados pessoais
+2018-01-01,2018,1,7766,8.Educação,0.22,Educação
+2018-02-01,2018,2,7766,8.Educação,3.89,Educação
+2018-03-01,2018,3,7766,8.Educação,0.28,Educação
+2018-04-01,2018,4,7766,8.Educação,0.08,Educação
+2018-05-01,2018,5,7766,8.Educação,0.06,Educação
+2018-06-01,2018,6,7766,8.Educação,0.02,Educação
+2018-07-01,2018,7,7766,8.Educação,-0.08,Educação
+2018-08-01,2018,8,7766,8.Educação,0.25,Educação
+2018-09-01,2018,9,7766,8.Educação,0.24,Educação
+2018-10-01,2018,10,7766,8.Educação,0.04,Educação
+2018-11-01,2018,11,7766,8.Educação,0.04,Educação
+2018-12-01,2018,12,7766,8.Educação,0.21,Educação
+2018-01-01,2018,1,7786,9.Comunicação,0.11,Comunicação
+2018-02-01,2018,2,7786,9.Comunicação,0.05,Comunicação
+2018-03-01,2018,3,7786,9.Comunicação,-0.33,Comunicação
+2018-04-01,2018,4,7786,9.Comunicação,-0.07,Comunicação
+2018-05-01,2018,5,7786,9.Comunicação,0.16,Comunicação
+2018-06-01,2018,6,7786,9.Comunicação,0.0,Comunicação
+2018-07-01,2018,7,7786,9.Comunicação,0.08,Comunicação
+2018-08-01,2018,8,7786,9.Comunicação,0.03,Comunicação
+2018-09-01,2018,9,7786,9.Comunicação,-0.07,Comunicação
+2018-10-01,2018,10,7786,9.Comunicação,0.02,Comunicação
+2018-11-01,2018,11,7786,9.Comunicação,-0.07,Comunicação
+2018-12-01,2018,12,7786,9.Comunicação,0.01,Comunicação
+2018-01-01,2018,1,7787,91.Comunicação,0.11,Comunicação
+2018-02-01,2018,2,7787,91.Comunicação,0.05,Comunicação
+2018-03-01,2018,3,7787,91.Comunicação,-0.33,Comunicação
+2018-04-01,2018,4,7787,91.Comunicação,-0.07,Comunicação
+2018-05-01,2018,5,7787,91.Comunicação,0.16,Comunicação
+2018-06-01,2018,6,7787,91.Comunicação,0.0,Comunicação
+2018-07-01,2018,7,7787,91.Comunicação,0.08,Comunicação
+2018-08-01,2018,8,7787,91.Comunicação,0.03,Comunicação
+2018-09-01,2018,9,7787,91.Comunicação,-0.07,Comunicação
+2018-10-01,2018,10,7787,91.Comunicação,0.02,Comunicação
+2018-11-01,2018,11,7787,91.Comunicação,-0.07,Comunicação
+2018-12-01,2018,12,7787,91.Comunicação,0.01,Comunicação
+2018-01-01,2018,1,7788,9101.Comunicação,0.11,Comunicação
+2018-02-01,2018,2,7788,9101.Comunicação,0.05,Comunicação
+2018-03-01,2018,3,7788,9101.Comunicação,-0.33,Comunicação
+2018-04-01,2018,4,7788,9101.Comunicação,-0.07,Comunicação
+2018-05-01,2018,5,7788,9101.Comunicação,0.16,Comunicação
+2018-06-01,2018,6,7788,9101.Comunicação,0.0,Comunicação
+2018-07-01,2018,7,7788,9101.Comunicação,0.08,Comunicação
+2018-08-01,2018,8,7788,9101.Comunicação,0.03,Comunicação
+2018-09-01,2018,9,7788,9101.Comunicação,-0.07,Comunicação
+2018-10-01,2018,10,7788,9101.Comunicação,0.02,Comunicação
+2018-11-01,2018,11,7788,9101.Comunicação,-0.07,Comunicação
+2018-12-01,2018,12,7788,9101.Comunicação,0.01,Comunicação
+2019-01-01,2019,1,7170,1.Alimentação e bebidas,0.9,Alimentação e bebidas
+2019-02-01,2019,2,7170,1.Alimentação e bebidas,0.78,Alimentação e bebidas
+2019-03-01,2019,3,7170,1.Alimentação e bebidas,1.37,Alimentação e bebidas
+2019-04-01,2019,4,7170,1.Alimentação e bebidas,0.63,Alimentação e bebidas
+2019-05-01,2019,5,7170,1.Alimentação e bebidas,-0.56,Alimentação e bebidas
+2019-06-01,2019,6,7170,1.Alimentação e bebidas,-0.25,Alimentação e bebidas
+2019-07-01,2019,7,7170,1.Alimentação e bebidas,0.01,Alimentação e bebidas
+2019-08-01,2019,8,7170,1.Alimentação e bebidas,-0.35,Alimentação e bebidas
+2019-09-01,2019,9,7170,1.Alimentação e bebidas,-0.43,Alimentação e bebidas
+2019-10-01,2019,10,7170,1.Alimentação e bebidas,0.05,Alimentação e bebidas
+2019-11-01,2019,11,7170,1.Alimentação e bebidas,0.72,Alimentação e bebidas
+2019-12-01,2019,12,7170,1.Alimentação e bebidas,3.38,Alimentação e bebidas
+2019-01-01,2019,1,7445,2.Habitação,0.24,Habitação
+2019-02-01,2019,2,7445,2.Habitação,0.38,Habitação
+2019-03-01,2019,3,7445,2.Habitação,0.25,Habitação
+2019-04-01,2019,4,7445,2.Habitação,0.24,Habitação
+2019-05-01,2019,5,7445,2.Habitação,0.98,Habitação
+2019-06-01,2019,6,7445,2.Habitação,0.07,Habitação
+2019-07-01,2019,7,7445,2.Habitação,1.2,Habitação
+2019-08-01,2019,8,7445,2.Habitação,1.19,Habitação
+2019-09-01,2019,9,7445,2.Habitação,0.02,Habitação
+2019-10-01,2019,10,7445,2.Habitação,-0.61,Habitação
+2019-11-01,2019,11,7445,2.Habitação,0.71,Habitação
+2019-12-01,2019,12,7445,2.Habitação,-0.82,Habitação
+2019-01-01,2019,1,7625,5.Transportes,0.02,Transportes
+2019-02-01,2019,2,7625,5.Transportes,-0.34,Transportes
+2019-03-01,2019,3,7625,5.Transportes,1.44,Transportes
+2019-04-01,2019,4,7625,5.Transportes,0.94,Transportes
+2019-05-01,2019,5,7625,5.Transportes,0.07,Transportes
+2019-06-01,2019,6,7625,5.Transportes,-0.31,Transportes
+2019-07-01,2019,7,7625,5.Transportes,-0.17,Transportes
+2019-08-01,2019,8,7625,5.Transportes,-0.39,Transportes
+2019-09-01,2019,9,7625,5.Transportes,0.0,Transportes
+2019-10-01,2019,10,7625,5.Transportes,0.45,Transportes
+2019-11-01,2019,11,7625,5.Transportes,0.3,Transportes
+2019-12-01,2019,12,7625,5.Transportes,1.54,Transportes
+2019-01-01,2019,1,7626,51.Transportes,0.02,Transportes
+2019-02-01,2019,2,7626,51.Transportes,-0.34,Transportes
+2019-03-01,2019,3,7626,51.Transportes,1.44,Transportes
+2019-04-01,2019,4,7626,51.Transportes,0.94,Transportes
+2019-05-01,2019,5,7626,51.Transportes,0.07,Transportes
+2019-06-01,2019,6,7626,51.Transportes,-0.31,Transportes
+2019-07-01,2019,7,7626,51.Transportes,-0.17,Transportes
+2019-08-01,2019,8,7626,51.Transportes,-0.39,Transportes
+2019-09-01,2019,9,7626,51.Transportes,0.0,Transportes
+2019-10-01,2019,10,7626,51.Transportes,0.45,Transportes
+2019-11-01,2019,11,7626,51.Transportes,0.3,Transportes
+2019-12-01,2019,12,7626,51.Transportes,1.54,Transportes
+2019-01-01,2019,1,7660,6.Saúde e cuidados pessoais,0.26,Saúde e cuidados pessoais
+2019-02-01,2019,2,7660,6.Saúde e cuidados pessoais,0.49,Saúde e cuidados pessoais
+2019-03-01,2019,3,7660,6.Saúde e cuidados pessoais,0.42,Saúde e cuidados pessoais
+2019-04-01,2019,4,7660,6.Saúde e cuidados pessoais,1.51,Saúde e cuidados pessoais
+2019-05-01,2019,5,7660,6.Saúde e cuidados pessoais,0.59,Saúde e cuidados pessoais
+2019-06-01,2019,6,7660,6.Saúde e cuidados pessoais,0.64,Saúde e cuidados pessoais
+2019-07-01,2019,7,7660,6.Saúde e cuidados pessoais,-0.2,Saúde e cuidados pessoais
+2019-08-01,2019,8,7660,6.Saúde e cuidados pessoais,-0.03,Saúde e cuidados pessoais
+2019-09-01,2019,9,7660,6.Saúde e cuidados pessoais,0.58,Saúde e cuidados pessoais
+2019-10-01,2019,10,7660,6.Saúde e cuidados pessoais,0.4,Saúde e cuidados pessoais
+2019-11-01,2019,11,7660,6.Saúde e cuidados pessoais,0.21,Saúde e cuidados pessoais
+2019-12-01,2019,12,7660,6.Saúde e cuidados pessoais,0.42,Saúde e cuidados pessoais
+2019-01-01,2019,1,7766,8.Educação,0.12,Educação
+2019-02-01,2019,2,7766,8.Educação,3.53,Educação
+2019-03-01,2019,3,7766,8.Educação,0.32,Educação
+2019-04-01,2019,4,7766,8.Educação,0.09,Educação
+2019-05-01,2019,5,7766,8.Educação,-0.04,Educação
+2019-06-01,2019,6,7766,8.Educação,0.14,Educação
+2019-07-01,2019,7,7766,8.Educação,0.04,Educação
+2019-08-01,2019,8,7766,8.Educação,0.16,Educação
+2019-09-01,2019,9,7766,8.Educação,0.04,Educação
+2019-10-01,2019,10,7766,8.Educação,0.03,Educação
+2019-11-01,2019,11,7766,8.Educação,0.08,Educação
+2019-12-01,2019,12,7766,8.Educação,0.2,Educação
+2019-01-01,2019,1,7786,9.Comunicação,0.04,Comunicação
+2019-02-01,2019,2,7786,9.Comunicação,0.0,Comunicação
+2019-03-01,2019,3,7786,9.Comunicação,-0.22,Comunicação
+2019-04-01,2019,4,7786,9.Comunicação,0.03,Comunicação
+2019-05-01,2019,5,7786,9.Comunicação,-0.03,Comunicação
+2019-06-01,2019,6,7786,9.Comunicação,-0.02,Comunicação
+2019-07-01,2019,7,7786,9.Comunicação,0.57,Comunicação
+2019-08-01,2019,8,7786,9.Comunicação,0.09,Comunicação
+2019-09-01,2019,9,7786,9.Comunicação,-0.01,Comunicação
+2019-10-01,2019,10,7786,9.Comunicação,-0.01,Comunicação
+2019-11-01,2019,11,7786,9.Comunicação,-0.02,Comunicação
+2019-12-01,2019,12,7786,9.Comunicação,0.66,Comunicação
+2019-01-01,2019,1,7787,91.Comunicação,0.04,Comunicação
+2019-02-01,2019,2,7787,91.Comunicação,0.0,Comunicação
+2019-03-01,2019,3,7787,91.Comunicação,-0.22,Comunicação
+2019-04-01,2019,4,7787,91.Comunicação,0.03,Comunicação
+2019-05-01,2019,5,7787,91.Comunicação,-0.03,Comunicação
+2019-06-01,2019,6,7787,91.Comunicação,-0.02,Comunicação
+2019-07-01,2019,7,7787,91.Comunicação,0.57,Comunicação
+2019-08-01,2019,8,7787,91.Comunicação,0.09,Comunicação
+2019-09-01,2019,9,7787,91.Comunicação,-0.01,Comunicação
+2019-10-01,2019,10,7787,91.Comunicação,-0.01,Comunicação
+2019-11-01,2019,11,7787,91.Comunicação,-0.02,Comunicação
+2019-12-01,2019,12,7787,91.Comunicação,0.66,Comunicação
+2019-01-01,2019,1,7788,9101.Comunicação,0.04,Comunicação
+2019-02-01,2019,2,7788,9101.Comunicação,0.0,Comunicação
+2019-03-01,2019,3,7788,9101.Comunicação,-0.22,Comunicação
+2019-04-01,2019,4,7788,9101.Comunicação,0.03,Comunicação
+2019-05-01,2019,5,7788,9101.Comunicação,-0.03,Comunicação
+2019-06-01,2019,6,7788,9101.Comunicação,-0.02,Comunicação
+2019-07-01,2019,7,7788,9101.Comunicação,0.57,Comunicação
+2019-08-01,2019,8,7788,9101.Comunicação,0.09,Comunicação
+2019-09-01,2019,9,7788,9101.Comunicação,-0.01,Comunicação
+2019-10-01,2019,10,7788,9101.Comunicação,-0.01,Comunicação
+2019-11-01,2019,11,7788,9101.Comunicação,-0.02,Comunicação
+2019-12-01,2019,12,7788,9101.Comunicação,0.66,Comunicação
+2020-01-01,2020,1,7170,1.Alimentação e bebidas,0.39,Alimentação e bebidas
+2020-02-01,2020,2,7170,1.Alimentação e bebidas,0.11,Alimentação e bebidas
+2020-03-01,2020,3,7170,1.Alimentação e bebidas,1.13,Alimentação e bebidas
+2020-04-01,2020,4,7170,1.Alimentação e bebidas,1.79,Alimentação e bebidas
+2020-05-01,2020,5,7170,1.Alimentação e bebidas,0.24,Alimentação e bebidas
+2020-06-01,2020,6,7170,1.Alimentação e bebidas,0.38,Alimentação e bebidas
+2020-07-01,2020,7,7170,1.Alimentação e bebidas,0.01,Alimentação e bebidas
+2020-08-01,2020,8,7170,1.Alimentação e bebidas,0.78,Alimentação e bebidas
+2020-09-01,2020,9,7170,1.Alimentação e bebidas,2.28,Alimentação e bebidas
+2020-10-01,2020,10,7170,1.Alimentação e bebidas,1.93,Alimentação e bebidas
+2020-11-01,2020,11,7170,1.Alimentação e bebidas,2.54,Alimentação e bebidas
+2020-12-01,2020,12,7170,1.Alimentação e bebidas,1.74,Alimentação e bebidas
+2020-01-01,2020,1,7445,2.Habitação,0.55,Habitação
+2020-02-01,2020,2,7445,2.Habitação,-0.39,Habitação
+2020-03-01,2020,3,7445,2.Habitação,0.13,Habitação
+2020-04-01,2020,4,7445,2.Habitação,-0.1,Habitação
+2020-05-01,2020,5,7445,2.Habitação,-0.25,Habitação
+2020-06-01,2020,6,7445,2.Habitação,0.04,Habitação
+2020-07-01,2020,7,7445,2.Habitação,0.8,Habitação
+2020-08-01,2020,8,7445,2.Habitação,0.36,Habitação
+2020-09-01,2020,9,7445,2.Habitação,0.37,Habitação
+2020-10-01,2020,10,7445,2.Habitação,0.36,Habitação
+2020-11-01,2020,11,7445,2.Habitação,0.44,Habitação
+2020-12-01,2020,12,7445,2.Habitação,2.88,Habitação
+2020-01-01,2020,1,7625,5.Transportes,0.32,Transportes
+2020-02-01,2020,2,7625,5.Transportes,-0.23,Transportes
+2020-03-01,2020,3,7625,5.Transportes,-0.9,Transportes
+2020-04-01,2020,4,7625,5.Transportes,-2.66,Transportes
+2020-05-01,2020,5,7625,5.Transportes,-1.9,Transportes
+2020-06-01,2020,6,7625,5.Transportes,0.31,Transportes
+2020-07-01,2020,7,7625,5.Transportes,0.78,Transportes
+2020-08-01,2020,8,7625,5.Transportes,0.82,Transportes
+2020-09-01,2020,9,7625,5.Transportes,0.7,Transportes
+2020-10-01,2020,10,7625,5.Transportes,1.19,Transportes
+2020-11-01,2020,11,7625,5.Transportes,1.33,Transportes
+2020-12-01,2020,12,7625,5.Transportes,1.36,Transportes
+2020-01-01,2020,1,7626,51.Transportes,0.32,Transportes
+2020-02-01,2020,2,7626,51.Transportes,-0.23,Transportes
+2020-03-01,2020,3,7626,51.Transportes,-0.9,Transportes
+2020-04-01,2020,4,7626,51.Transportes,-2.66,Transportes
+2020-05-01,2020,5,7626,51.Transportes,-1.9,Transportes
+2020-06-01,2020,6,7626,51.Transportes,0.31,Transportes
+2020-07-01,2020,7,7626,51.Transportes,0.78,Transportes
+2020-08-01,2020,8,7626,51.Transportes,0.82,Transportes
+2020-09-01,2020,9,7626,51.Transportes,0.7,Transportes
+2020-10-01,2020,10,7626,51.Transportes,1.19,Transportes
+2020-11-01,2020,11,7626,51.Transportes,1.33,Transportes
+2020-12-01,2020,12,7626,51.Transportes,1.36,Transportes
+2020-01-01,2020,1,7660,6.Saúde e cuidados pessoais,-0.32,Saúde e cuidados pessoais
+2020-02-01,2020,2,7660,6.Saúde e cuidados pessoais,0.73,Saúde e cuidados pessoais
+2020-03-01,2020,3,7660,6.Saúde e cuidados pessoais,0.21,Saúde e cuidados pessoais
+2020-04-01,2020,4,7660,6.Saúde e cuidados pessoais,-0.22,Saúde e cuidados pessoais
+2020-05-01,2020,5,7660,6.Saúde e cuidados pessoais,-0.1,Saúde e cuidados pessoais
+2020-06-01,2020,6,7660,6.Saúde e cuidados pessoais,0.35,Saúde e cuidados pessoais
+2020-07-01,2020,7,7660,6.Saúde e cuidados pessoais,0.44,Saúde e cuidados pessoais
+2020-08-01,2020,8,7660,6.Saúde e cuidados pessoais,0.5,Saúde e cuidados pessoais
+2020-09-01,2020,9,7660,6.Saúde e cuidados pessoais,-0.64,Saúde e cuidados pessoais
+2020-10-01,2020,10,7660,6.Saúde e cuidados pessoais,0.28,Saúde e cuidados pessoais
+2020-11-01,2020,11,7660,6.Saúde e cuidados pessoais,-0.13,Saúde e cuidados pessoais
+2020-12-01,2020,12,7660,6.Saúde e cuidados pessoais,0.4,Saúde e cuidados pessoais
+2020-01-01,2020,1,7766,8.Educação,0.16,Educação
+2020-02-01,2020,2,7766,8.Educação,3.7,Educação
+2020-03-01,2020,3,7766,8.Educação,0.59,Educação
+2020-04-01,2020,4,7766,8.Educação,0.0,Educação
+2020-05-01,2020,5,7766,8.Educação,0.02,Educação
+2020-06-01,2020,6,7766,8.Educação,0.05,Educação
+2020-07-01,2020,7,7766,8.Educação,-0.12,Educação
+2020-08-01,2020,8,7766,8.Educação,-3.47,Educação
+2020-09-01,2020,9,7766,8.Educação,-0.09,Educação
+2020-10-01,2020,10,7766,8.Educação,-0.04,Educação
+2020-11-01,2020,11,7766,8.Educação,-0.02,Educação
+2020-12-01,2020,12,7766,8.Educação,0.48,Educação
+2020-01-01,2020,1,7786,9.Comunicação,0.12,Comunicação
+2020-02-01,2020,2,7786,9.Comunicação,0.21,Comunicação
+2020-03-01,2020,3,7786,9.Comunicação,0.04,Comunicação
+2020-04-01,2020,4,7786,9.Comunicação,-0.2,Comunicação
+2020-05-01,2020,5,7786,9.Comunicação,0.24,Comunicação
+2020-06-01,2020,6,7786,9.Comunicação,0.75,Comunicação
+2020-07-01,2020,7,7786,9.Comunicação,0.51,Comunicação
+2020-08-01,2020,8,7786,9.Comunicação,0.67,Comunicação
+2020-09-01,2020,9,7786,9.Comunicação,0.15,Comunicação
+2020-10-01,2020,10,7786,9.Comunicação,0.21,Comunicação
+2020-11-01,2020,11,7786,9.Comunicação,0.29,Comunicação
+2020-12-01,2020,12,7786,9.Comunicação,0.39,Comunicação
+2020-01-01,2020,1,7787,91.Comunicação,0.12,Comunicação
+2020-02-01,2020,2,7787,91.Comunicação,0.21,Comunicação
+2020-03-01,2020,3,7787,91.Comunicação,0.04,Comunicação
+2020-04-01,2020,4,7787,91.Comunicação,-0.2,Comunicação
+2020-05-01,2020,5,7787,91.Comunicação,0.24,Comunicação
+2020-06-01,2020,6,7787,91.Comunicação,0.75,Comunicação
+2020-07-01,2020,7,7787,91.Comunicação,0.51,Comunicação
+2020-08-01,2020,8,7787,91.Comunicação,0.67,Comunicação
+2020-09-01,2020,9,7787,91.Comunicação,0.15,Comunicação
+2020-10-01,2020,10,7787,91.Comunicação,0.21,Comunicação
+2020-11-01,2020,11,7787,91.Comunicação,0.29,Comunicação
+2020-12-01,2020,12,7787,91.Comunicação,0.39,Comunicação
+2020-01-01,2020,1,7788,9101.Comunicação,0.12,Comunicação
+2020-02-01,2020,2,7788,9101.Comunicação,0.21,Comunicação
+2020-03-01,2020,3,7788,9101.Comunicação,0.04,Comunicação
+2020-04-01,2020,4,7788,9101.Comunicação,-0.2,Comunicação
+2020-05-01,2020,5,7788,9101.Comunicação,0.24,Comunicação
+2020-06-01,2020,6,7788,9101.Comunicação,0.75,Comunicação
+2020-07-01,2020,7,7788,9101.Comunicação,0.51,Comunicação
+2020-08-01,2020,8,7788,9101.Comunicação,0.67,Comunicação
+2020-09-01,2020,9,7788,9101.Comunicação,0.15,Comunicação
+2020-10-01,2020,10,7788,9101.Comunicação,0.21,Comunicação
+2020-11-01,2020,11,7788,9101.Comunicação,0.29,Comunicação
+2020-12-01,2020,12,7788,9101.Comunicação,0.39,Comunicação
+2021-01-01,2021,1,7170,1.Alimentação e bebidas,1.02,Alimentação e bebidas
+2021-02-01,2021,2,7170,1.Alimentação e bebidas,0.27,Alimentação e bebidas
+2021-03-01,2021,3,7170,1.Alimentação e bebidas,0.13,Alimentação e bebidas
+2021-04-01,2021,4,7170,1.Alimentação e bebidas,0.4,Alimentação e bebidas
+2021-05-01,2021,5,7170,1.Alimentação e bebidas,0.44,Alimentação e bebidas
+2021-06-01,2021,6,7170,1.Alimentação e bebidas,0.43,Alimentação e bebidas
+2021-07-01,2021,7,7170,1.Alimentação e bebidas,0.6,Alimentação e bebidas
+2021-08-01,2021,8,7170,1.Alimentação e bebidas,1.39,Alimentação e bebidas
+2021-09-01,2021,9,7170,1.Alimentação e bebidas,1.02,Alimentação e bebidas
+2021-10-01,2021,10,7170,1.Alimentação e bebidas,1.17,Alimentação e bebidas
+2021-11-01,2021,11,7170,1.Alimentação e bebidas,-0.04,Alimentação e bebidas
+2021-12-01,2021,12,7170,1.Alimentação e bebidas,0.84,Alimentação e bebidas
+2021-01-01,2021,1,7445,2.Habitação,-1.07,Habitação
+2021-02-01,2021,2,7445,2.Habitação,0.4,Habitação
+2021-03-01,2021,3,7445,2.Habitação,0.81,Habitação
+2021-04-01,2021,4,7445,2.Habitação,0.22,Habitação
+2021-05-01,2021,5,7445,2.Habitação,1.78,Habitação
+2021-06-01,2021,6,7445,2.Habitação,1.1,Habitação
+2021-07-01,2021,7,7445,2.Habitação,3.1,Habitação
+2021-08-01,2021,8,7445,2.Habitação,0.68,Habitação
+2021-09-01,2021,9,7445,2.Habitação,2.56,Habitação
+2021-10-01,2021,10,7445,2.Habitação,1.04,Habitação
+2021-11-01,2021,11,7445,2.Habitação,1.03,Habitação
+2021-12-01,2021,12,7445,2.Habitação,0.74,Habitação
+2021-01-01,2021,1,7625,5.Transportes,0.41,Transportes
+2021-02-01,2021,2,7625,5.Transportes,2.28,Transportes
+2021-03-01,2021,3,7625,5.Transportes,3.81,Transportes
+2021-04-01,2021,4,7625,5.Transportes,-0.08,Transportes
+2021-05-01,2021,5,7625,5.Transportes,1.15,Transportes
+2021-06-01,2021,6,7625,5.Transportes,0.41,Transportes
+2021-07-01,2021,7,7625,5.Transportes,1.52,Transportes
+2021-08-01,2021,8,7625,5.Transportes,1.46,Transportes
+2021-09-01,2021,9,7625,5.Transportes,1.82,Transportes
+2021-10-01,2021,10,7625,5.Transportes,2.62,Transportes
+2021-11-01,2021,11,7625,5.Transportes,3.35,Transportes
+2021-12-01,2021,12,7625,5.Transportes,0.58,Transportes
+2021-01-01,2021,1,7626,51.Transportes,0.41,Transportes
+2021-02-01,2021,2,7626,51.Transportes,2.28,Transportes
+2021-03-01,2021,3,7626,51.Transportes,3.81,Transportes
+2021-04-01,2021,4,7626,51.Transportes,-0.08,Transportes
+2021-05-01,2021,5,7626,51.Transportes,1.15,Transportes
+2021-06-01,2021,6,7626,51.Transportes,0.41,Transportes
+2021-07-01,2021,7,7626,51.Transportes,1.52,Transportes
+2021-08-01,2021,8,7626,51.Transportes,1.46,Transportes
+2021-09-01,2021,9,7626,51.Transportes,1.82,Transportes
+2021-10-01,2021,10,7626,51.Transportes,2.62,Transportes
+2021-11-01,2021,11,7626,51.Transportes,3.35,Transportes
+2021-12-01,2021,12,7626,51.Transportes,0.58,Transportes
+2021-01-01,2021,1,7660,6.Saúde e cuidados pessoais,0.32,Saúde e cuidados pessoais
+2021-02-01,2021,2,7660,6.Saúde e cuidados pessoais,0.62,Saúde e cuidados pessoais
+2021-03-01,2021,3,7660,6.Saúde e cuidados pessoais,-0.02,Saúde e cuidados pessoais
+2021-04-01,2021,4,7660,6.Saúde e cuidados pessoais,1.19,Saúde e cuidados pessoais
+2021-05-01,2021,5,7660,6.Saúde e cuidados pessoais,0.76,Saúde e cuidados pessoais
+2021-06-01,2021,6,7660,6.Saúde e cuidados pessoais,0.51,Saúde e cuidados pessoais
+2021-07-01,2021,7,7660,6.Saúde e cuidados pessoais,-0.65,Saúde e cuidados pessoais
+2021-08-01,2021,8,7660,6.Saúde e cuidados pessoais,-0.04,Saúde e cuidados pessoais
+2021-09-01,2021,9,7660,6.Saúde e cuidados pessoais,0.39,Saúde e cuidados pessoais
+2021-10-01,2021,10,7660,6.Saúde e cuidados pessoais,0.39,Saúde e cuidados pessoais
+2021-11-01,2021,11,7660,6.Saúde e cuidados pessoais,-0.57,Saúde e cuidados pessoais
+2021-12-01,2021,12,7660,6.Saúde e cuidados pessoais,0.75,Saúde e cuidados pessoais
+2021-01-01,2021,1,7766,8.Educação,0.13,Educação
+2021-02-01,2021,2,7766,8.Educação,2.48,Educação
+2021-03-01,2021,3,7766,8.Educação,-0.52,Educação
+2021-04-01,2021,4,7766,8.Educação,0.04,Educação
+2021-05-01,2021,5,7766,8.Educação,0.06,Educação
+2021-06-01,2021,6,7766,8.Educação,0.05,Educação
+2021-07-01,2021,7,7766,8.Educação,0.18,Educação
+2021-08-01,2021,8,7766,8.Educação,0.28,Educação
+2021-09-01,2021,9,7766,8.Educação,-0.01,Educação
+2021-10-01,2021,10,7766,8.Educação,0.06,Educação
+2021-11-01,2021,11,7766,8.Educação,0.02,Educação
+2021-12-01,2021,12,7766,8.Educação,0.05,Educação
+2021-01-01,2021,1,7786,9.Comunicação,0.02,Comunicação
+2021-02-01,2021,2,7786,9.Comunicação,-0.13,Comunicação
+2021-03-01,2021,3,7786,9.Comunicação,-0.07,Comunicação
+2021-04-01,2021,4,7786,9.Comunicação,0.08,Comunicação
+2021-05-01,2021,5,7786,9.Comunicação,0.21,Comunicação
+2021-06-01,2021,6,7786,9.Comunicação,-0.12,Comunicação
+2021-07-01,2021,7,7786,9.Comunicação,0.12,Comunicação
+2021-08-01,2021,8,7786,9.Comunicação,0.23,Comunicação
+2021-09-01,2021,9,7786,9.Comunicação,0.07,Comunicação
+2021-10-01,2021,10,7786,9.Comunicação,0.54,Comunicação
+2021-11-01,2021,11,7786,9.Comunicação,0.09,Comunicação
+2021-12-01,2021,12,7786,9.Comunicação,0.34,Comunicação
+2021-01-01,2021,1,7787,91.Comunicação,0.02,Comunicação
+2021-02-01,2021,2,7787,91.Comunicação,-0.13,Comunicação
+2021-03-01,2021,3,7787,91.Comunicação,-0.07,Comunicação
+2021-04-01,2021,4,7787,91.Comunicação,0.08,Comunicação
+2021-05-01,2021,5,7787,91.Comunicação,0.21,Comunicação
+2021-06-01,2021,6,7787,91.Comunicação,-0.12,Comunicação
+2021-07-01,2021,7,7787,91.Comunicação,0.12,Comunicação
+2021-08-01,2021,8,7787,91.Comunicação,0.23,Comunicação
+2021-09-01,2021,9,7787,91.Comunicação,0.07,Comunicação
+2021-10-01,2021,10,7787,91.Comunicação,0.54,Comunicação
+2021-11-01,2021,11,7787,91.Comunicação,0.09,Comunicação
+2021-12-01,2021,12,7787,91.Comunicação,0.34,Comunicação
+2021-01-01,2021,1,7788,9101.Comunicação,0.02,Comunicação
+2021-02-01,2021,2,7788,9101.Comunicação,-0.13,Comunicação
+2021-03-01,2021,3,7788,9101.Comunicação,-0.07,Comunicação
+2021-04-01,2021,4,7788,9101.Comunicação,0.08,Comunicação
+2021-05-01,2021,5,7788,9101.Comunicação,0.21,Comunicação
+2021-06-01,2021,6,7788,9101.Comunicação,-0.12,Comunicação
+2021-07-01,2021,7,7788,9101.Comunicação,0.12,Comunicação
+2021-08-01,2021,8,7788,9101.Comunicação,0.23,Comunicação
+2021-09-01,2021,9,7788,9101.Comunicação,0.07,Comunicação
+2021-10-01,2021,10,7788,9101.Comunicação,0.54,Comunicação
+2021-11-01,2021,11,7788,9101.Comunicação,0.09,Comunicação
+2021-12-01,2021,12,7788,9101.Comunicação,0.34,Comunicação
+2022-01-01,2022,1,7170,1.Alimentação e bebidas,1.11,Alimentação e bebidas
+2022-02-01,2022,2,7170,1.Alimentação e bebidas,1.28,Alimentação e bebidas
+2022-03-01,2022,3,7170,1.Alimentação e bebidas,2.42,Alimentação e bebidas
+2022-04-01,2022,4,7170,1.Alimentação e bebidas,2.06,Alimentação e bebidas
+2022-05-01,2022,5,7170,1.Alimentação e bebidas,0.48,Alimentação e bebidas
+2022-06-01,2022,6,7170,1.Alimentação e bebidas,0.8,Alimentação e bebidas
+2022-07-01,2022,7,7170,1.Alimentação e bebidas,1.3,Alimentação e bebidas
+2022-08-01,2022,8,7170,1.Alimentação e bebidas,0.24,Alimentação e bebidas
+2022-09-01,2022,9,7170,1.Alimentação e bebidas,-0.51,Alimentação e bebidas
+2022-10-01,2022,10,7170,1.Alimentação e bebidas,0.72,Alimentação e bebidas
+2022-11-01,2022,11,7170,1.Alimentação e bebidas,0.53,Alimentação e bebidas
+2022-12-01,2022,12,7170,1.Alimentação e bebidas,0.66,Alimentação e bebidas
+2022-01-01,2022,1,7445,2.Habitação,0.16,Habitação
+2022-02-01,2022,2,7445,2.Habitação,0.54,Habitação
+2022-03-01,2022,3,7445,2.Habitação,1.15,Habitação
+2022-04-01,2022,4,7445,2.Habitação,-1.14,Habitação
+2022-05-01,2022,5,7445,2.Habitação,-1.7,Habitação
+2022-06-01,2022,6,7445,2.Habitação,0.41,Habitação
+2022-07-01,2022,7,7445,2.Habitação,-1.05,Habitação
+2022-08-01,2022,8,7445,2.Habitação,0.1,Habitação
+2022-09-01,2022,9,7445,2.Habitação,0.6,Habitação
+2022-10-01,2022,10,7445,2.Habitação,0.34,Habitação
+2022-11-01,2022,11,7445,2.Habitação,0.51,Habitação
+2022-12-01,2022,12,7445,2.Habitação,0.2,Habitação
+2022-01-01,2022,1,7625,5.Transportes,-0.11,Transportes
+2022-02-01,2022,2,7625,5.Transportes,0.46,Transportes
+2022-03-01,2022,3,7625,5.Transportes,3.02,Transportes
+2022-04-01,2022,4,7625,5.Transportes,1.91,Transportes
+2022-05-01,2022,5,7625,5.Transportes,1.34,Transportes
+2022-06-01,2022,6,7625,5.Transportes,0.57,Transportes
+2022-07-01,2022,7,7625,5.Transportes,-4.51,Transportes
+2022-08-01,2022,8,7625,5.Transportes,-3.37,Transportes
+2022-09-01,2022,9,7625,5.Transportes,-1.98,Transportes
+2022-10-01,2022,10,7625,5.Transportes,0.58,Transportes
+2022-11-01,2022,11,7625,5.Transportes,0.83,Transportes
+2022-12-01,2022,12,7625,5.Transportes,0.21,Transportes
+2022-01-01,2022,1,7626,51.Transportes,-0.11,Transportes
+2022-02-01,2022,2,7626,51.Transportes,0.46,Transportes
+2022-03-01,2022,3,7626,51.Transportes,3.02,Transportes
+2022-04-01,2022,4,7626,51.Transportes,1.91,Transportes
+2022-05-01,2022,5,7626,51.Transportes,1.34,Transportes
+2022-06-01,2022,6,7626,51.Transportes,0.57,Transportes
+2022-07-01,2022,7,7626,51.Transportes,-4.51,Transportes
+2022-08-01,2022,8,7626,51.Transportes,-3.37,Transportes
+2022-09-01,2022,9,7626,51.Transportes,-1.98,Transportes
+2022-10-01,2022,10,7626,51.Transportes,0.58,Transportes
+2022-11-01,2022,11,7626,51.Transportes,0.83,Transportes
+2022-12-01,2022,12,7626,51.Transportes,0.21,Transportes
+2022-01-01,2022,1,7660,6.Saúde e cuidados pessoais,0.36,Saúde e cuidados pessoais
+2022-02-01,2022,2,7660,6.Saúde e cuidados pessoais,0.47,Saúde e cuidados pessoais
+2022-03-01,2022,3,7660,6.Saúde e cuidados pessoais,0.88,Saúde e cuidados pessoais
+2022-04-01,2022,4,7660,6.Saúde e cuidados pessoais,1.77,Saúde e cuidados pessoais
+2022-05-01,2022,5,7660,6.Saúde e cuidados pessoais,1.01,Saúde e cuidados pessoais
+2022-06-01,2022,6,7660,6.Saúde e cuidados pessoais,1.24,Saúde e cuidados pessoais
+2022-07-01,2022,7,7660,6.Saúde e cuidados pessoais,0.49,Saúde e cuidados pessoais
+2022-08-01,2022,8,7660,6.Saúde e cuidados pessoais,1.31,Saúde e cuidados pessoais
+2022-09-01,2022,9,7660,6.Saúde e cuidados pessoais,0.57,Saúde e cuidados pessoais
+2022-10-01,2022,10,7660,6.Saúde e cuidados pessoais,1.16,Saúde e cuidados pessoais
+2022-11-01,2022,11,7660,6.Saúde e cuidados pessoais,0.02,Saúde e cuidados pessoais
+2022-12-01,2022,12,7660,6.Saúde e cuidados pessoais,1.6,Saúde e cuidados pessoais
+2022-01-01,2022,1,7766,8.Educação,0.25,Educação
+2022-02-01,2022,2,7766,8.Educação,5.61,Educação
+2022-03-01,2022,3,7766,8.Educação,0.15,Educação
+2022-04-01,2022,4,7766,8.Educação,0.06,Educação
+2022-05-01,2022,5,7766,8.Educação,0.04,Educação
+2022-06-01,2022,6,7766,8.Educação,0.09,Educação
+2022-07-01,2022,7,7766,8.Educação,0.06,Educação
+2022-08-01,2022,8,7766,8.Educação,0.61,Educação
+2022-09-01,2022,9,7766,8.Educação,0.12,Educação
+2022-10-01,2022,10,7766,8.Educação,0.18,Educação
+2022-11-01,2022,11,7766,8.Educação,0.02,Educação
+2022-12-01,2022,12,7766,8.Educação,0.19,Educação
+2022-01-01,2022,1,7786,9.Comunicação,1.05,Comunicação
+2022-02-01,2022,2,7786,9.Comunicação,0.29,Comunicação
+2022-03-01,2022,3,7786,9.Comunicação,-0.05,Comunicação
+2022-04-01,2022,4,7786,9.Comunicação,0.08,Comunicação
+2022-05-01,2022,5,7786,9.Comunicação,0.72,Comunicação
+2022-06-01,2022,6,7786,9.Comunicação,0.16,Comunicação
+2022-07-01,2022,7,7786,9.Comunicação,0.07,Comunicação
+2022-08-01,2022,8,7786,9.Comunicação,-1.1,Comunicação
+2022-09-01,2022,9,7786,9.Comunicação,-2.08,Comunicação
+2022-10-01,2022,10,7786,9.Comunicação,-0.48,Comunicação
+2022-11-01,2022,11,7786,9.Comunicação,-0.14,Comunicação
+2022-12-01,2022,12,7786,9.Comunicação,0.5,Comunicação
+2022-01-01,2022,1,7787,91.Comunicação,1.05,Comunicação
+2022-02-01,2022,2,7787,91.Comunicação,0.29,Comunicação
+2022-03-01,2022,3,7787,91.Comunicação,-0.05,Comunicação
+2022-04-01,2022,4,7787,91.Comunicação,0.08,Comunicação
+2022-05-01,2022,5,7787,91.Comunicação,0.72,Comunicação
+2022-06-01,2022,6,7787,91.Comunicação,0.16,Comunicação
+2022-07-01,2022,7,7787,91.Comunicação,0.07,Comunicação
+2022-08-01,2022,8,7787,91.Comunicação,-1.1,Comunicação
+2022-09-01,2022,9,7787,91.Comunicação,-2.08,Comunicação
+2022-10-01,2022,10,7787,91.Comunicação,-0.48,Comunicação
+2022-11-01,2022,11,7787,91.Comunicação,-0.14,Comunicação
+2022-12-01,2022,12,7787,91.Comunicação,0.5,Comunicação
+2022-01-01,2022,1,7788,9101.Comunicação,1.05,Comunicação
+2022-02-01,2022,2,7788,9101.Comunicação,0.29,Comunicação
+2022-03-01,2022,3,7788,9101.Comunicação,-0.05,Comunicação
+2022-04-01,2022,4,7788,9101.Comunicação,0.08,Comunicação
+2022-05-01,2022,5,7788,9101.Comunicação,0.72,Comunicação
+2022-06-01,2022,6,7788,9101.Comunicação,0.16,Comunicação
+2022-07-01,2022,7,7788,9101.Comunicação,0.07,Comunicação
+2022-08-01,2022,8,7788,9101.Comunicação,-1.1,Comunicação
+2022-09-01,2022,9,7788,9101.Comunicação,-2.08,Comunicação
+2022-10-01,2022,10,7788,9101.Comunicação,-0.48,Comunicação
+2022-11-01,2022,11,7788,9101.Comunicação,-0.14,Comunicação
+2022-12-01,2022,12,7788,9101.Comunicação,0.5,Comunicação
+2023-01-01,2023,1,7170,1.Alimentação e bebidas,0.59,Alimentação e bebidas
+2023-02-01,2023,2,7170,1.Alimentação e bebidas,0.16,Alimentação e bebidas
+2023-03-01,2023,3,7170,1.Alimentação e bebidas,0.05,Alimentação e bebidas
+2023-04-01,2023,4,7170,1.Alimentação e bebidas,0.71,Alimentação e bebidas
+2023-05-01,2023,5,7170,1.Alimentação e bebidas,0.16,Alimentação e bebidas
+2023-06-01,2023,6,7170,1.Alimentação e bebidas,-0.66,Alimentação e bebidas
+2023-07-01,2023,7,7170,1.Alimentação e bebidas,-0.46,Alimentação e bebidas
+2023-08-01,2023,8,7170,1.Alimentação e bebidas,-0.85,Alimentação e bebidas
+2023-09-01,2023,9,7170,1.Alimentação e bebidas,-0.71,Alimentação e bebidas
+2023-10-01,2023,10,7170,1.Alimentação e bebidas,0.31,Alimentação e bebidas
+2023-11-01,2023,11,7170,1.Alimentação e bebidas,0.63,Alimentação e bebidas
+2023-12-01,2023,12,7170,1.Alimentação e bebidas,1.11,Alimentação e bebidas
+2023-01-01,2023,1,7445,2.Habitação,0.33,Habitação
+2023-02-01,2023,2,7445,2.Habitação,0.82,Habitação
+2023-03-01,2023,3,7445,2.Habitação,0.57,Habitação
+2023-04-01,2023,4,7445,2.Habitação,0.48,Habitação
+2023-05-01,2023,5,7445,2.Habitação,0.67,Habitação
+2023-06-01,2023,6,7445,2.Habitação,0.69,Habitação
+2023-07-01,2023,7,7445,2.Habitação,-1.01,Habitação
+2023-08-01,2023,8,7445,2.Habitação,1.11,Habitação
+2023-09-01,2023,9,7445,2.Habitação,0.47,Habitação
+2023-10-01,2023,10,7445,2.Habitação,0.02,Habitação
+2023-11-01,2023,11,7445,2.Habitação,0.48,Habitação
+2023-12-01,2023,12,7445,2.Habitação,0.34,Habitação
+2023-01-01,2023,1,7625,5.Transportes,0.55,Transportes
+2023-02-01,2023,2,7625,5.Transportes,0.37,Transportes
+2023-03-01,2023,3,7625,5.Transportes,2.11,Transportes
+2023-04-01,2023,4,7625,5.Transportes,0.56,Transportes
+2023-05-01,2023,5,7625,5.Transportes,-0.57,Transportes
+2023-06-01,2023,6,7625,5.Transportes,-0.41,Transportes
+2023-07-01,2023,7,7625,5.Transportes,1.5,Transportes
+2023-08-01,2023,8,7625,5.Transportes,0.34,Transportes
+2023-09-01,2023,9,7625,5.Transportes,1.4,Transportes
+2023-10-01,2023,10,7625,5.Transportes,0.35,Transportes
+2023-11-01,2023,11,7625,5.Transportes,0.27,Transportes
+2023-12-01,2023,12,7625,5.Transportes,0.48,Transportes
+2023-01-01,2023,1,7626,51.Transportes,0.55,Transportes
+2023-02-01,2023,2,7626,51.Transportes,0.37,Transportes
+2023-03-01,2023,3,7626,51.Transportes,2.11,Transportes
+2023-04-01,2023,4,7626,51.Transportes,0.56,Transportes
+2023-05-01,2023,5,7626,51.Transportes,-0.57,Transportes
+2023-06-01,2023,6,7626,51.Transportes,-0.41,Transportes
+2023-07-01,2023,7,7626,51.Transportes,1.5,Transportes
+2023-08-01,2023,8,7626,51.Transportes,0.34,Transportes
+2023-09-01,2023,9,7626,51.Transportes,1.4,Transportes
+2023-10-01,2023,10,7626,51.Transportes,0.35,Transportes
+2023-11-01,2023,11,7626,51.Transportes,0.27,Transportes
+2023-12-01,2023,12,7626,51.Transportes,0.48,Transportes
+2023-01-01,2023,1,7660,6.Saúde e cuidados pessoais,0.16,Saúde e cuidados pessoais
+2023-02-01,2023,2,7660,6.Saúde e cuidados pessoais,1.26,Saúde e cuidados pessoais
+2023-03-01,2023,3,7660,6.Saúde e cuidados pessoais,0.82,Saúde e cuidados pessoais
+2023-04-01,2023,4,7660,6.Saúde e cuidados pessoais,1.49,Saúde e cuidados pessoais
+2023-05-01,2023,5,7660,6.Saúde e cuidados pessoais,0.93,Saúde e cuidados pessoais
+2023-06-01,2023,6,7660,6.Saúde e cuidados pessoais,0.11,Saúde e cuidados pessoais
+2023-07-01,2023,7,7660,6.Saúde e cuidados pessoais,0.26,Saúde e cuidados pessoais
+2023-08-01,2023,8,7660,6.Saúde e cuidados pessoais,0.58,Saúde e cuidados pessoais
+2023-09-01,2023,9,7660,6.Saúde e cuidados pessoais,0.04,Saúde e cuidados pessoais
+2023-10-01,2023,10,7660,6.Saúde e cuidados pessoais,0.32,Saúde e cuidados pessoais
+2023-11-01,2023,11,7660,6.Saúde e cuidados pessoais,0.08,Saúde e cuidados pessoais
+2023-12-01,2023,12,7660,6.Saúde e cuidados pessoais,0.35,Saúde e cuidados pessoais
+2023-01-01,2023,1,7766,8.Educação,0.36,Educação
+2023-02-01,2023,2,7766,8.Educação,6.28,Educação
+2023-03-01,2023,3,7766,8.Educação,0.1,Educação
+2023-04-01,2023,4,7766,8.Educação,0.09,Educação
+2023-05-01,2023,5,7766,8.Educação,0.05,Educação
+2023-06-01,2023,6,7766,8.Educação,0.06,Educação
+2023-07-01,2023,7,7766,8.Educação,0.13,Educação
+2023-08-01,2023,8,7766,8.Educação,0.69,Educação
+2023-09-01,2023,9,7766,8.Educação,0.05,Educação
+2023-10-01,2023,10,7766,8.Educação,0.05,Educação
+2023-11-01,2023,11,7766,8.Educação,0.02,Educação
+2023-12-01,2023,12,7766,8.Educação,0.24,Educação
+2023-01-01,2023,1,7786,9.Comunicação,2.09,Comunicação
+2023-02-01,2023,2,7786,9.Comunicação,0.98,Comunicação
+2023-03-01,2023,3,7786,9.Comunicação,0.5,Comunicação
+2023-04-01,2023,4,7786,9.Comunicação,0.08,Comunicação
+2023-05-01,2023,5,7786,9.Comunicação,0.21,Comunicação
+2023-06-01,2023,6,7786,9.Comunicação,-0.14,Comunicação
+2023-07-01,2023,7,7786,9.Comunicação,0.0,Comunicação
+2023-08-01,2023,8,7786,9.Comunicação,-0.09,Comunicação
+2023-09-01,2023,9,7786,9.Comunicação,-0.11,Comunicação
+2023-10-01,2023,10,7786,9.Comunicação,-0.19,Comunicação
+2023-11-01,2023,11,7786,9.Comunicação,-0.5,Comunicação
+2023-12-01,2023,12,7786,9.Comunicação,0.04,Comunicação
+2023-01-01,2023,1,7787,91.Comunicação,2.09,Comunicação
+2023-02-01,2023,2,7787,91.Comunicação,0.98,Comunicação
+2023-03-01,2023,3,7787,91.Comunicação,0.5,Comunicação
+2023-04-01,2023,4,7787,91.Comunicação,0.08,Comunicação
+2023-05-01,2023,5,7787,91.Comunicação,0.21,Comunicação
+2023-06-01,2023,6,7787,91.Comunicação,-0.14,Comunicação
+2023-07-01,2023,7,7787,91.Comunicação,0.0,Comunicação
+2023-08-01,2023,8,7787,91.Comunicação,-0.09,Comunicação
+2023-09-01,2023,9,7787,91.Comunicação,-0.11,Comunicação
+2023-10-01,2023,10,7787,91.Comunicação,-0.19,Comunicação
+2023-11-01,2023,11,7787,91.Comunicação,-0.5,Comunicação
+2023-12-01,2023,12,7787,91.Comunicação,0.04,Comunicação
+2023-01-01,2023,1,7788,9101.Comunicação,2.09,Comunicação
+2023-02-01,2023,2,7788,9101.Comunicação,0.98,Comunicação
+2023-03-01,2023,3,7788,9101.Comunicação,0.5,Comunicação
+2023-04-01,2023,4,7788,9101.Comunicação,0.08,Comunicação
+2023-05-01,2023,5,7788,9101.Comunicação,0.21,Comunicação
+2023-06-01,2023,6,7788,9101.Comunicação,-0.14,Comunicação
+2023-07-01,2023,7,7788,9101.Comunicação,0.0,Comunicação
+2023-08-01,2023,8,7788,9101.Comunicação,-0.09,Comunicação
+2023-09-01,2023,9,7788,9101.Comunicação,-0.11,Comunicação
+2023-10-01,2023,10,7788,9101.Comunicação,-0.19,Comunicação
+2023-11-01,2023,11,7788,9101.Comunicação,-0.5,Comunicação
+2023-12-01,2023,12,7788,9101.Comunicação,0.04,Comunicação
+2024-01-01,2024,1,7170,1.Alimentação e bebidas,1.38,Alimentação e bebidas
+2024-02-01,2024,2,7170,1.Alimentação e bebidas,0.95,Alimentação e bebidas
+2024-03-01,2024,3,7170,1.Alimentação e bebidas,0.53,Alimentação e bebidas
+2024-04-01,2024,4,7170,1.Alimentação e bebidas,0.7,Alimentação e bebidas
+2024-05-01,2024,5,7170,1.Alimentação e bebidas,0.62,Alimentação e bebidas
+2024-06-01,2024,6,7170,1.Alimentação e bebidas,0.44,Alimentação e bebidas
+2024-07-01,2024,7,7170,1.Alimentação e bebidas,-1.0,Alimentação e bebidas
+2024-08-01,2024,8,7170,1.Alimentação e bebidas,-0.44,Alimentação e bebidas
+2024-09-01,2024,9,7170,1.Alimentação e bebidas,0.5,Alimentação e bebidas
+2024-10-01,2024,10,7170,1.Alimentação e bebidas,1.06,Alimentação e bebidas
+2024-11-01,2024,11,7170,1.Alimentação e bebidas,1.55,Alimentação e bebidas
+2024-12-01,2024,12,7170,1.Alimentação e bebidas,1.18,Alimentação e bebidas
+2024-01-01,2024,1,7445,2.Habitação,0.25,Habitação
+2024-02-01,2024,2,7445,2.Habitação,0.27,Habitação
+2024-03-01,2024,3,7445,2.Habitação,0.19,Habitação
+2024-04-01,2024,4,7445,2.Habitação,-0.01,Habitação
+2024-05-01,2024,5,7445,2.Habitação,0.67,Habitação
+2024-06-01,2024,6,7445,2.Habitação,0.25,Habitação
+2024-07-01,2024,7,7445,2.Habitação,0.77,Habitação
+2024-08-01,2024,8,7445,2.Habitação,-0.51,Habitação
+2024-09-01,2024,9,7445,2.Habitação,1.8,Habitação
+2024-10-01,2024,10,7445,2.Habitação,1.49,Habitação
+2024-11-01,2024,11,7445,2.Habitação,-1.53,Habitação
+2024-12-01,2024,12,7445,2.Habitação,-0.56,Habitação
+2024-01-01,2024,1,7625,5.Transportes,-0.65,Transportes
+2024-02-01,2024,2,7625,5.Transportes,0.72,Transportes
+2024-03-01,2024,3,7625,5.Transportes,-0.33,Transportes
+2024-04-01,2024,4,7625,5.Transportes,0.14,Transportes
+2024-05-01,2024,5,7625,5.Transportes,0.44,Transportes
+2024-06-01,2024,6,7625,5.Transportes,-0.19,Transportes
+2024-07-01,2024,7,7625,5.Transportes,1.82,Transportes
+2024-08-01,2024,8,7625,5.Transportes,0.0,Transportes
+2024-09-01,2024,9,7625,5.Transportes,0.14,Transportes
+2024-10-01,2024,10,7625,5.Transportes,-0.38,Transportes
+2024-11-01,2024,11,7625,5.Transportes,0.89,Transportes
+2024-12-01,2024,12,7625,5.Transportes,0.67,Transportes
+2024-01-01,2024,1,7626,51.Transportes,-0.65,Transportes
+2024-02-01,2024,2,7626,51.Transportes,0.72,Transportes
+2024-03-01,2024,3,7626,51.Transportes,-0.33,Transportes
+2024-04-01,2024,4,7626,51.Transportes,0.14,Transportes
+2024-05-01,2024,5,7626,51.Transportes,0.44,Transportes
+2024-06-01,2024,6,7626,51.Transportes,-0.19,Transportes
+2024-07-01,2024,7,7626,51.Transportes,1.82,Transportes
+2024-08-01,2024,8,7626,51.Transportes,0.0,Transportes
+2024-09-01,2024,9,7626,51.Transportes,0.14,Transportes
+2024-10-01,2024,10,7626,51.Transportes,-0.38,Transportes
+2024-11-01,2024,11,7626,51.Transportes,0.89,Transportes
+2024-12-01,2024,12,7626,51.Transportes,0.67,Transportes
+2024-01-01,2024,1,7660,6.Saúde e cuidados pessoais,0.83,Saúde e cuidados pessoais
+2024-02-01,2024,2,7660,6.Saúde e cuidados pessoais,0.65,Saúde e cuidados pessoais
+2024-03-01,2024,3,7660,6.Saúde e cuidados pessoais,0.43,Saúde e cuidados pessoais
+2024-04-01,2024,4,7660,6.Saúde e cuidados pessoais,1.16,Saúde e cuidados pessoais
+2024-05-01,2024,5,7660,6.Saúde e cuidados pessoais,0.69,Saúde e cuidados pessoais
+2024-06-01,2024,6,7660,6.Saúde e cuidados pessoais,0.54,Saúde e cuidados pessoais
+2024-07-01,2024,7,7660,6.Saúde e cuidados pessoais,0.22,Saúde e cuidados pessoais
+2024-08-01,2024,8,7660,6.Saúde e cuidados pessoais,0.25,Saúde e cuidados pessoais
+2024-09-01,2024,9,7660,6.Saúde e cuidados pessoais,0.46,Saúde e cuidados pessoais
+2024-10-01,2024,10,7660,6.Saúde e cuidados pessoais,0.38,Saúde e cuidados pessoais
+2024-11-01,2024,11,7660,6.Saúde e cuidados pessoais,-0.06,Saúde e cuidados pessoais
+2024-12-01,2024,12,7660,6.Saúde e cuidados pessoais,0.38,Saúde e cuidados pessoais
+2024-01-01,2024,1,7766,8.Educação,0.33,Educação
+2024-02-01,2024,2,7766,8.Educação,4.98,Educação
+2024-03-01,2024,3,7766,8.Educação,0.14,Educação
+2024-04-01,2024,4,7766,8.Educação,0.05,Educação
+2024-05-01,2024,5,7766,8.Educação,0.09,Educação
+2024-06-01,2024,6,7766,8.Educação,0.06,Educação
+2024-07-01,2024,7,7766,8.Educação,0.08,Educação
+2024-08-01,2024,8,7766,8.Educação,0.73,Educação
+2024-09-01,2024,9,7766,8.Educação,0.05,Educação
+2024-10-01,2024,10,7766,8.Educação,0.04,Educação
+2024-11-01,2024,11,7766,8.Educação,-0.04,Educação
+2024-12-01,2024,12,7766,8.Educação,0.11,Educação
+2024-01-01,2024,1,7786,9.Comunicação,-0.08,Comunicação
+2024-02-01,2024,2,7786,9.Comunicação,1.56,Comunicação
+2024-03-01,2024,3,7786,9.Comunicação,-0.13,Comunicação
+2024-04-01,2024,4,7786,9.Comunicação,0.48,Comunicação
+2024-05-01,2024,5,7786,9.Comunicação,0.14,Comunicação
+2024-06-01,2024,6,7786,9.Comunicação,-0.08,Comunicação
+2024-07-01,2024,7,7786,9.Comunicação,0.18,Comunicação
+2024-08-01,2024,8,7786,9.Comunicação,0.1,Comunicação
+2024-09-01,2024,9,7786,9.Comunicação,-0.05,Comunicação
+2024-10-01,2024,10,7786,9.Comunicação,0.52,Comunicação
+2024-11-01,2024,11,7786,9.Comunicação,-0.1,Comunicação
+2024-12-01,2024,12,7786,9.Comunicação,0.37,Comunicação
+2024-01-01,2024,1,7787,91.Comunicação,-0.08,Comunicação
+2024-02-01,2024,2,7787,91.Comunicação,1.56,Comunicação
+2024-03-01,2024,3,7787,91.Comunicação,-0.13,Comunicação
+2024-04-01,2024,4,7787,91.Comunicação,0.48,Comunicação
+2024-05-01,2024,5,7787,91.Comunicação,0.14,Comunicação
+2024-06-01,2024,6,7787,91.Comunicação,-0.08,Comunicação
+2024-07-01,2024,7,7787,91.Comunicação,0.18,Comunicação
+2024-08-01,2024,8,7787,91.Comunicação,0.1,Comunicação
+2024-09-01,2024,9,7787,91.Comunicação,-0.05,Comunicação
+2024-10-01,2024,10,7787,91.Comunicação,0.52,Comunicação
+2024-11-01,2024,11,7787,91.Comunicação,-0.1,Comunicação
+2024-12-01,2024,12,7787,91.Comunicação,0.37,Comunicação
+2024-01-01,2024,1,7788,9101.Comunicação,-0.08,Comunicação
+2024-02-01,2024,2,7788,9101.Comunicação,1.56,Comunicação
+2024-03-01,2024,3,7788,9101.Comunicação,-0.13,Comunicação
+2024-04-01,2024,4,7788,9101.Comunicação,0.48,Comunicação
+2024-05-01,2024,5,7788,9101.Comunicação,0.14,Comunicação
+2024-06-01,2024,6,7788,9101.Comunicação,-0.08,Comunicação
+2024-07-01,2024,7,7788,9101.Comunicação,0.18,Comunicação
+2024-08-01,2024,8,7788,9101.Comunicação,0.1,Comunicação
+2024-09-01,2024,9,7788,9101.Comunicação,-0.05,Comunicação
+2024-10-01,2024,10,7788,9101.Comunicação,0.52,Comunicação
+2024-11-01,2024,11,7788,9101.Comunicação,-0.1,Comunicação
+2024-12-01,2024,12,7788,9101.Comunicação,0.37,Comunicação
+2025-01-01,2025,1,7170,1.Alimentação e bebidas,0.96,Alimentação e bebidas
+2025-02-01,2025,2,7170,1.Alimentação e bebidas,0.7,Alimentação e bebidas
+2025-03-01,2025,3,7170,1.Alimentação e bebidas,1.17,Alimentação e bebidas
+2025-04-01,2025,4,7170,1.Alimentação e bebidas,0.82,Alimentação e bebidas
+2025-05-01,2025,5,7170,1.Alimentação e bebidas,0.17,Alimentação e bebidas
+2025-06-01,2025,6,7170,1.Alimentação e bebidas,-0.18,Alimentação e bebidas
+2025-07-01,2025,7,7170,1.Alimentação e bebidas,-0.27,Alimentação e bebidas
+2025-08-01,2025,8,7170,1.Alimentação e bebidas,-0.46,Alimentação e bebidas
+2025-09-01,2025,9,7170,1.Alimentação e bebidas,-0.26,Alimentação e bebidas
+2025-10-01,2025,10,7170,1.Alimentação e bebidas,0.01,Alimentação e bebidas
+2025-11-01,2025,11,7170,1.Alimentação e bebidas,-0.01,Alimentação e bebidas
+2025-12-01,2025,12,7170,1.Alimentação e bebidas,0.27,Alimentação e bebidas
+2025-01-01,2025,1,7445,2.Habitação,-3.08,Habitação
+2025-02-01,2025,2,7445,2.Habitação,4.44,Habitação
+2025-03-01,2025,3,7445,2.Habitação,0.24,Habitação
+2025-04-01,2025,4,7445,2.Habitação,0.14,Habitação
+2025-05-01,2025,5,7445,2.Habitação,1.19,Habitação
+2025-06-01,2025,6,7445,2.Habitação,0.99,Habitação
+2025-07-01,2025,7,7445,2.Habitação,0.91,Habitação
+2025-08-01,2025,8,7445,2.Habitação,-0.9,Habitação
+2025-09-01,2025,9,7445,2.Habitação,2.97,Habitação
+2025-10-01,2025,10,7445,2.Habitação,-0.3,Habitação
+2025-11-01,2025,11,7445,2.Habitação,0.52,Habitação
+2025-12-01,2025,12,7445,2.Habitação,-0.33,Habitação
+2025-01-01,2025,1,7625,5.Transportes,1.3,Transportes
+2025-02-01,2025,2,7625,5.Transportes,0.61,Transportes
+2025-03-01,2025,3,7625,5.Transportes,0.46,Transportes
+2025-04-01,2025,4,7625,5.Transportes,-0.38,Transportes
+2025-05-01,2025,5,7625,5.Transportes,-0.37,Transportes
+2025-06-01,2025,6,7625,5.Transportes,0.27,Transportes
+2025-07-01,2025,7,7625,5.Transportes,0.35,Transportes
+2025-08-01,2025,8,7625,5.Transportes,-0.27,Transportes
+2025-09-01,2025,9,7625,5.Transportes,0.01,Transportes
+2025-10-01,2025,10,7625,5.Transportes,0.11,Transportes
+2025-11-01,2025,11,7625,5.Transportes,0.22,Transportes
+2025-12-01,2025,12,7625,5.Transportes,0.74,Transportes
+2025-01-01,2025,1,7626,51.Transportes,1.3,Transportes
+2025-02-01,2025,2,7626,51.Transportes,0.61,Transportes
+2025-03-01,2025,3,7626,51.Transportes,0.46,Transportes
+2025-04-01,2025,4,7626,51.Transportes,-0.38,Transportes
+2025-05-01,2025,5,7626,51.Transportes,-0.37,Transportes
+2025-06-01,2025,6,7626,51.Transportes,0.27,Transportes
+2025-07-01,2025,7,7626,51.Transportes,0.35,Transportes
+2025-08-01,2025,8,7626,51.Transportes,-0.27,Transportes
+2025-09-01,2025,9,7626,51.Transportes,0.01,Transportes
+2025-10-01,2025,10,7626,51.Transportes,0.11,Transportes
+2025-11-01,2025,11,7626,51.Transportes,0.22,Transportes
+2025-12-01,2025,12,7626,51.Transportes,0.74,Transportes
+2025-01-01,2025,1,7660,6.Saúde e cuidados pessoais,0.7,Saúde e cuidados pessoais
+2025-02-01,2025,2,7660,6.Saúde e cuidados pessoais,0.49,Saúde e cuidados pessoais
+2025-03-01,2025,3,7660,6.Saúde e cuidados pessoais,0.43,Saúde e cuidados pessoais
+2025-04-01,2025,4,7660,6.Saúde e cuidados pessoais,1.18,Saúde e cuidados pessoais
+2025-05-01,2025,5,7660,6.Saúde e cuidados pessoais,0.54,Saúde e cuidados pessoais
+2025-06-01,2025,6,7660,6.Saúde e cuidados pessoais,0.07,Saúde e cuidados pessoais
+2025-07-01,2025,7,7660,6.Saúde e cuidados pessoais,0.45,Saúde e cuidados pessoais
+2025-08-01,2025,8,7660,6.Saúde e cuidados pessoais,0.54,Saúde e cuidados pessoais
+2025-09-01,2025,9,7660,6.Saúde e cuidados pessoais,0.17,Saúde e cuidados pessoais
+2025-10-01,2025,10,7660,6.Saúde e cuidados pessoais,0.41,Saúde e cuidados pessoais
+2025-11-01,2025,11,7660,6.Saúde e cuidados pessoais,-0.04,Saúde e cuidados pessoais
+2025-12-01,2025,12,7660,6.Saúde e cuidados pessoais,0.52,Saúde e cuidados pessoais
+2025-01-01,2025,1,7766,8.Educação,0.26,Educação
+2025-02-01,2025,2,7766,8.Educação,4.7,Educação
+2025-03-01,2025,3,7766,8.Educação,0.1,Educação
+2025-04-01,2025,4,7766,8.Educação,0.05,Educação
+2025-05-01,2025,5,7766,8.Educação,0.05,Educação
+2025-06-01,2025,6,7766,8.Educação,0.0,Educação
+2025-07-01,2025,7,7766,8.Educação,0.02,Educação
+2025-08-01,2025,8,7766,8.Educação,0.75,Educação
+2025-09-01,2025,9,7766,8.Educação,0.07,Educação
+2025-10-01,2025,10,7766,8.Educação,0.06,Educação
+2025-11-01,2025,11,7766,8.Educação,0.01,Educação
+2025-12-01,2025,12,7766,8.Educação,0.08,Educação
+2025-01-01,2025,1,7786,9.Comunicação,-0.17,Comunicação
+2025-02-01,2025,2,7786,9.Comunicação,0.17,Comunicação
+2025-03-01,2025,3,7786,9.Comunicação,0.24,Comunicação
+2025-04-01,2025,4,7786,9.Comunicação,0.69,Comunicação
+2025-05-01,2025,5,7786,9.Comunicação,0.07,Comunicação
+2025-06-01,2025,6,7786,9.Comunicação,0.11,Comunicação
+2025-07-01,2025,7,7786,9.Comunicação,-0.09,Comunicação
+2025-08-01,2025,8,7786,9.Comunicação,-0.09,Comunicação
+2025-09-01,2025,9,7786,9.Comunicação,-0.17,Comunicação
+2025-10-01,2025,10,7786,9.Comunicação,-0.16,Comunicação
+2025-11-01,2025,11,7786,9.Comunicação,-0.2,Comunicação
+2025-12-01,2025,12,7786,9.Comunicação,0.37,Comunicação
+2025-01-01,2025,1,7787,91.Comunicação,-0.17,Comunicação
+2025-02-01,2025,2,7787,91.Comunicação,0.17,Comunicação
+2025-03-01,2025,3,7787,91.Comunicação,0.24,Comunicação
+2025-04-01,2025,4,7787,91.Comunicação,0.69,Comunicação
+2025-05-01,2025,5,7787,91.Comunicação,0.07,Comunicação
+2025-06-01,2025,6,7787,91.Comunicação,0.11,Comunicação
+2025-07-01,2025,7,7787,91.Comunicação,-0.09,Comunicação
+2025-08-01,2025,8,7787,91.Comunicação,-0.09,Comunicação
+2025-09-01,2025,9,7787,91.Comunicação,-0.17,Comunicação
+2025-10-01,2025,10,7787,91.Comunicação,-0.16,Comunicação
+2025-11-01,2025,11,7787,91.Comunicação,-0.2,Comunicação
+2025-12-01,2025,12,7787,91.Comunicação,0.37,Comunicação
+2025-01-01,2025,1,7788,9101.Comunicação,-0.17,Comunicação
+2025-02-01,2025,2,7788,9101.Comunicação,0.17,Comunicação
+2025-03-01,2025,3,7788,9101.Comunicação,0.24,Comunicação
+2025-04-01,2025,4,7788,9101.Comunicação,0.69,Comunicação
+2025-05-01,2025,5,7788,9101.Comunicação,0.07,Comunicação
+2025-06-01,2025,6,7788,9101.Comunicação,0.11,Comunicação
+2025-07-01,2025,7,7788,9101.Comunicação,-0.09,Comunicação
+2025-08-01,2025,8,7788,9101.Comunicação,-0.09,Comunicação
+2025-09-01,2025,9,7788,9101.Comunicação,-0.17,Comunicação
+2025-10-01,2025,10,7788,9101.Comunicação,-0.16,Comunicação
+2025-11-01,2025,11,7788,9101.Comunicação,-0.2,Comunicação
+2025-12-01,2025,12,7788,9101.Comunicação,0.37,Comunicação
